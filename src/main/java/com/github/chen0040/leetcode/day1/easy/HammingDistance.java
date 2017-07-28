@@ -12,13 +12,15 @@ package com.github.chen0040.leetcode.day1.easy;
  */
 public class HammingDistance
 {
-   public int hammingDistance(int x, int y) {
-      int xor = x ^ y;
-      int distance = 0;
-      while(xor > 0) {
-         distance += (xor&1) > 0 ? 1 : 0;
-         xor >>= 1;
+   public class Solution {
+      public int hammingDistance(int x, int y) {
+         int xor = x ^ y;
+         int distance = 0;
+         while (xor > 0) {
+            distance += (xor & 1) > 0 ? 1 : 0;
+            xor >>= 1;
+         }
+         return distance;
       }
-      return distance;
    }
 }

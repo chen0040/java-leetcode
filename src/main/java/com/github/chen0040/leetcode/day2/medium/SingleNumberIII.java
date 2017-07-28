@@ -14,20 +14,22 @@ import java.util.Set;
  * link: https://leetcode.com/problems/single-number-iii/tabs/description
  */
 public class SingleNumberIII {
-   public int[] singleNumber(int[] nums) {
-      Set<Integer> set = new HashSet<Integer>();
-      for(int i=0; i < nums.length; ++i) {
-         if(set.contains(nums[i])) {
-            set.remove(nums[i]);
-         } else {
-            set.add(nums[i]);
+   public class Solution {
+      public int[] singleNumber(int[] nums) {
+         Set<Integer> set = new HashSet<Integer>();
+         for(int i=0; i < nums.length; ++i) {
+            if(set.contains(nums[i])) {
+               set.remove(nums[i]);
+            } else {
+               set.add(nums[i]);
+            }
          }
+         int[] count = new int[set.size()];
+         int index = 0;
+         for(Integer val : set) {
+            count[index++] = val;
+         }
+         return count;
       }
-      int[] count = new int[set.size()];
-      int index = 0;
-      for(Integer val : set) {
-         count[index++] = val;
-      }
-      return count;
    }
 }

@@ -13,19 +13,22 @@ package com.github.chen0040.leetcode.day1.easy;
  * link: https://leetcode.com/problems/reshape-the-matrix/tabs/description
  */
 public class ReshapeTheMatrix {
-   public int[][] matrixReshape(int[][] nums, int r, int c) {
-      if(nums.length * nums[0].length != r * c) return nums;
+   public class Solution {
+      public int[][] matrixReshape(int[][] nums, int r, int c) {
+         if (nums.length * nums[0].length != r * c)
+            return nums;
 
-      int[][] reshaped = new int[r][];
-      for(int i=0; i < r; ++i) {
-         reshaped[i] = new int[c];
-         for(int j=0; j < c; ++j) {
-            int index = i * c + j;
-            int i1 = index / nums[0].length;
-            int j1 = index % nums[0].length;
-            reshaped[i][j] = nums[i1][j1];
+         int[][] reshaped = new int[r][];
+         for (int i = 0; i < r; ++i) {
+            reshaped[i] = new int[c];
+            for (int j = 0; j < c; ++j) {
+               int index = i * c + j;
+               int i1 = index / nums[0].length;
+               int j1 = index % nums[0].length;
+               reshaped[i][j] = nums[i1][j1];
+            }
          }
+         return reshaped;
       }
-      return reshaped;
    }
 }

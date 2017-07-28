@@ -14,17 +14,19 @@ import java.util.Map;
  * link: https://leetcode.com/problems/single-number/tabs/description
  */
 public class SingleNumber {
-   public int singleNumber(int[] nums) {
-      Map<Integer, Integer> counts = new HashMap<Integer, Integer>();
+   public class Solution {
+      public int singleNumber(int[] nums) {
+         Map<Integer, Integer> counts = new HashMap<Integer, Integer>();
 
-      for(int i=0; i < nums.length; ++i) {
-         counts.put(nums[i], counts.getOrDefault(nums[i], 0) + 1);
-      }
-      for(int i=0; i < nums.length; ++i) {
-         if(counts.get(nums[i]) == 1) {
-            return nums[i];
+         for(int i=0; i < nums.length; ++i) {
+            counts.put(nums[i], counts.getOrDefault(nums[i], 0) + 1);
          }
+         for(int i=0; i < nums.length; ++i) {
+            if(counts.get(nums[i]) == 1) {
+               return nums[i];
+            }
+         }
+         return 0;
       }
-      return 0;
    }
 }

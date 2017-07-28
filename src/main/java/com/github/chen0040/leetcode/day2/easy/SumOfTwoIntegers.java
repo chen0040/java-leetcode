@@ -10,14 +10,16 @@ package com.github.chen0040.leetcode.day2.easy;
  * link: https://leetcode.com/problems/sum-of-two-integers/tabs/description
  */
 public class SumOfTwoIntegers {
-   public int getSum(int a, int b) {
-      while (b != 0){
-         int carry = (a & b) ;
+   public class Solution {
+      public int getSum(int a, int b) {
+         while (b != 0){
+            int carry = (a & b) ;
 
-         a = a ^ b;
+            a = a ^ b;
 
-         b = carry << 1;
+            b = carry << 1;
+         }
+         return a;
       }
-      return a;
    }
 }

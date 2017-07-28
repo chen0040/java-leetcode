@@ -11,11 +11,13 @@ package com.github.chen0040.leetcode.day1.easy;
  * link: https://leetcode.com/problems/reverse-string/tabs/description
  */
 public class ReverseString {
-   public String reverseString(String s) {
-      StringBuilder sb = new StringBuilder();
-      for(int i=s.length()-1; i >= 0; --i) {
-         sb.append(s.charAt(i));
+   public class Solution {
+      public String reverseString(String s) {
+         StringBuilder sb = new StringBuilder();
+         for (int i = s.length() - 1; i >= 0; --i) {
+            sb.append(s.charAt(i));
+         }
+         return sb.toString();
       }
-      return sb.toString();
    }
 }

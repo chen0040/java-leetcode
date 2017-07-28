@@ -17,19 +17,22 @@ package com.github.chen0040.leetcode.day2.easy;
  */
 public class DetectCapital {
    private static String all = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-   public boolean detectCapitalUse(String word) {
-      int capitalCount = 0;
+   public class Solution {
 
-      boolean first = false;
-      for(int i=0; i < word.length(); ++i) {
-         if(all.indexOf(word.charAt(i)) != -1) {
-            capitalCount++;
-            if(i==0) {
-               first = true;
+      public boolean detectCapitalUse(String word) {
+         int capitalCount = 0;
+
+         boolean first = false;
+         for(int i=0; i < word.length(); ++i) {
+            if(all.indexOf(word.charAt(i)) != -1) {
+               capitalCount++;
+               if(i==0) {
+                  first = true;
+               }
             }
          }
-      }
 
-      return capitalCount == word.length() || capitalCount == 0 || (first && capitalCount == 1);
+         return capitalCount == word.length() || capitalCount == 0 || (first && capitalCount == 1);
+      }
    }
 }

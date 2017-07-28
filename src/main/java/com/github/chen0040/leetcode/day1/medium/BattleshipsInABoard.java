@@ -13,45 +13,55 @@ package com.github.chen0040.leetcode.day1.medium;
  * link: https://leetcode.com/problems/battleships-in-a-board/tabs/description
  */
 public class BattleshipsInABoard {
-   private boolean[][] marked;
-   private int rowCount;
-   private int colCount;
-   private int count = 0;
-   public int countBattleships(char[][] board) {
-      rowCount = board.length;
-      colCount = board[0].length;
-      count = 0;
-      marked = new boolean[rowCount][];
-      for(int i=0; i < rowCount; ++i) {
-         marked[i] = new boolean[colCount];
-      }
-      for(int i=0; i < rowCount; ++i) {
-         for(int j=0; j < colCount; ++j) {
+   public class Solution {
+      private boolean[][] marked;
+      private int rowCount;
+      private int colCount;
+      private int count = 0;
 
-            if(board[i][j] != 'X') continue;
-            if(!marked[i][j]) {
-               dfs(board, i, j);
-               count++;
+
+      public int countBattleships(char[][] board) {
+         rowCount = board.length;
+         colCount = board[0].length;
+         count = 0;
+         marked = new boolean[rowCount][];
+         for (int i = 0; i < rowCount; ++i) {
+            marked[i] = new boolean[colCount];
+         }
+         for (int i = 0; i < rowCount; ++i) {
+            for (int j = 0; j < colCount; ++j) {
+
+               if (board[i][j] != 'X')
+                  continue;
+               if (!marked[i][j]) {
+                  dfs(board, i, j);
+                  count++;
+               }
             }
          }
+         return count;
       }
-      return count;
-   }
 
-   private void dfs(char[][] board, int i, int j) {
-      marked[i][j] = true;
-      for(int ii=-1; ii <= 1; ++ii){
-         if(i + ii > rowCount - 1 || i + ii < 0) continue;
-         if(board[i+ii][j] != 'X') continue;
-         if(!marked[i+ii][j]) {
-            dfs(board, i+ii, j);
+
+      private void dfs(char[][] board, int i, int j) {
+         marked[i][j] = true;
+         for (int ii = -1; ii <= 1; ++ii) {
+            if (i + ii > rowCount - 1 || i + ii < 0)
+               continue;
+            if (board[i + ii][j] != 'X')
+               continue;
+            if (!marked[i + ii][j]) {
+               dfs(board, i + ii, j);
+            }
          }
-      }
-      for(int jj=-1; jj <= 1; ++jj) {
-         if(j + jj > colCount - 1 || j + jj < 0) continue;
-         if(board[i][j + jj] != 'X') continue;
-         if(!marked[i][j+jj]) {
-            dfs(board, i, j+jj);
+         for (int jj = -1; jj <= 1; ++jj) {
+            if (j + jj > colCount - 1 || j + jj < 0)
+               continue;
+            if (board[i][j + jj] != 'X')
+               continue;
+            if (!marked[i][j + jj]) {
+               dfs(board, i, j + jj);
+            }
          }
       }
    }

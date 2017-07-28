@@ -18,42 +18,44 @@ import java.util.Map;
  * link: https://leetcode.com/problems/array-nesting/tabs/description
  */
 public class ArrayNesting {
-   private boolean[] onStack;
-   private Map<Integer, Integer> counts = new HashMap<Integer,Integer>();
-   public int arrayNesting(int[] nums) {
-      int N = nums.length;
-      int maxCount = 0;
-      onStack = new boolean[N];
+   public class Solution {
+      private boolean[] onStack;
+      private Map<Integer, Integer> counts = new HashMap<Integer,Integer>();
+      public int arrayNesting(int[] nums) {
+         int N = nums.length;
+         int maxCount = 0;
+         onStack = new boolean[N];
 
-      for(int i=0; i < N; ++i){
-         if(counts.containsKey(nums[i])){
-            continue;
+         for(int i=0; i < N; ++i){
+            if(counts.containsKey(nums[i])){
+               continue;
+            }
+            int count = dfs(nums, nums[i]);
+            maxCount = Math.max(count, maxCount);
+
          }
-         int count = dfs(nums, nums[i]);
-         maxCount = Math.max(count, maxCount);
-
+         return maxCount;
       }
-      return maxCount;
-   }
 
-   private int dfs(int[] nums, int x) {
-      onStack[x] = true;
-
-      int count = 1;
-      x = nums[x];
-      while(!onStack[x] && x != nums[x]) {
+      private int dfs(int[] nums, int x) {
          onStack[x] = true;
+
+         int count = 1;
          x = nums[x];
+         while(!onStack[x] && x != nums[x]) {
+            onStack[x] = true;
+            x = nums[x];
 
-         if(counts.containsKey(x)) {
-            count+=counts.get(x);
-            break;
-         } else {
-            count++;
+            if(counts.containsKey(x)) {
+               count+=counts.get(x);
+               break;
+            } else {
+               count++;
+            }
          }
-      }
 
-      onStack[x] = false;
-      return count;
+         onStack[x] = false;
+         return count;
+      }
    }
 }

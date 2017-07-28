@@ -15,12 +15,14 @@ import java.util.Set;
  * link: https://leetcode.com/problems/distribute-candies/tabs/description
  */
 public class DistributeCandies {
-   public int distributeCandies(int[] candies) {
-      Set<Integer> unique = new HashSet<Integer>();
-      for(int i=0; i < candies.length; ++i) {
-         unique.add(candies[i]);
-      }
-      return Math.min(candies.length / 2, unique.size());
+   public class Solution {
+      public int distributeCandies(int[] candies) {
+         Set<Integer> unique = new HashSet<Integer>();
+         for (int i = 0; i < candies.length; ++i) {
+            unique.add(candies[i]);
+         }
+         return Math.min(candies.length / 2, unique.size());
 
+      }
    }
 }

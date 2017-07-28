@@ -18,16 +18,18 @@ import java.util.Set;
  * link: https://leetcode.com/problems/find-all-duplicates-in-an-array/tabs/description
  */
 public class FindAllDuplicatesInArray {
-   public List<Integer> findDuplicates(int[] nums) {
-      Set<Integer> set = new HashSet<Integer>();
-      List<Integer> result = new ArrayList<Integer>();
-      for(int i=0; i < nums.length; ++i) {
-         if(set.contains(nums[i])){
-            result.add(nums[i]);
-         } else {
-            set.add(nums[i]);
+   public class Solution {
+      public List<Integer> findDuplicates(int[] nums) {
+         Set<Integer> set = new HashSet<Integer>();
+         List<Integer> result = new ArrayList<Integer>();
+         for(int i=0; i < nums.length; ++i) {
+            if(set.contains(nums[i])){
+               result.add(nums[i]);
+            } else {
+               set.add(nums[i]);
+            }
          }
+         return result;
       }
-      return result;
    }
 }

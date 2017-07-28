@@ -17,18 +17,20 @@ import java.util.List;
  * link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/tabs/description
  */
 public class FindAllNumbersDisappearInArray {
-   public List<Integer> findDisappearedNumbers(int[] nums) {
-      boolean[] marked = new boolean[nums.length];
-      for(int i=0; i < nums.length; ++i) {
-         int val = nums[i];
-         marked[val-1] = true;
-      }
-      List<Integer> result = new ArrayList<Integer>();
-      for(int i=0; i < nums.length; ++i) {
-         if(!marked[i]) {
-            result.add(i+1);
-         }
-      }
-      return result;
-   }
+  public class Solution {
+     public List<Integer> findDisappearedNumbers(int[] nums) {
+        boolean[] marked = new boolean[nums.length];
+        for(int i=0; i < nums.length; ++i) {
+           int val = nums[i];
+           marked[val-1] = true;
+        }
+        List<Integer> result = new ArrayList<Integer>();
+        for(int i=0; i < nums.length; ++i) {
+           if(!marked[i]) {
+              result.add(i+1);
+           }
+        }
+        return result;
+     }
+  }
 }

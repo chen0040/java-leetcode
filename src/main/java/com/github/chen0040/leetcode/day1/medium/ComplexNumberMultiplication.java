@@ -11,16 +11,18 @@ package com.github.chen0040.leetcode.day1.medium;
  * link: https://leetcode.com/problems/complex-number-multiplication/tabs/description
  */
 public class ComplexNumberMultiplication {
-   public String complexNumberMultiply(String a, String b) {
-      String[] parts_a = a.split("\\+");
-      String[] parts_b = b.split("\\+");
-      int real_a = Integer.parseInt(parts_a[0]);
-      int real_b = Integer.parseInt(parts_b[0]);
-      int img_a = Integer.parseInt(parts_a[1].substring(0, parts_a[1].length()-1));
-      int img_b = Integer.parseInt(parts_b[1].substring(0, parts_b[1].length()-1));
+   public class Solution {
+      public String complexNumberMultiply(String a, String b) {
+         String[] parts_a = a.split("\\+");
+         String[] parts_b = b.split("\\+");
+         int real_a = Integer.parseInt(parts_a[0]);
+         int real_b = Integer.parseInt(parts_b[0]);
+         int img_a = Integer.parseInt(parts_a[1].substring(0, parts_a[1].length() - 1));
+         int img_b = Integer.parseInt(parts_b[1].substring(0, parts_b[1].length() - 1));
 
-      int real = real_a * real_b - img_a * img_b;
-      int img = real_a * img_b + img_a * real_b;
-      return real+"+"+img+"i";
+         int real = real_a * real_b - img_a * img_b;
+         int img = real_a * img_b + img_a * real_b;
+         return real + "+" + img + "i";
+      }
    }
 }

@@ -12,26 +12,28 @@ package com.github.chen0040.leetcode.day2.easy;
  */
 public class NextGreaterElementI {
 
-   public int[] nextGreaterElement(int[] findNums, int[] nums) {
-      int[] result = new int[findNums.length];
-      for(int i=0; i < findNums.length; ++i) {
-         int num1 = findNums[i];
-         int num2 = -1;
-         boolean found = false;
-         for(int j=0; j < nums.length; ++j) {
-            if(nums[j] == num1) {
-               found = true;
-            }
-            if(found) {
-               if(nums[j] > num1) {
-                  num2 = nums[j];
-                  break;
+   public class Solution {
+      public int[] nextGreaterElement(int[] findNums, int[] nums) {
+         int[] result = new int[findNums.length];
+         for(int i=0; i < findNums.length; ++i) {
+            int num1 = findNums[i];
+            int num2 = -1;
+            boolean found = false;
+            for(int j=0; j < nums.length; ++j) {
+               if(nums[j] == num1) {
+                  found = true;
+               }
+               if(found) {
+                  if(nums[j] > num1) {
+                     num2 = nums[j];
+                     break;
+                  }
                }
             }
-         }
-         result[i]= num2;
+            result[i]= num2;
 
+         }
+         return result;
       }
-      return result;
    }
 }

@@ -20,24 +20,27 @@ public class FindBottomLeftTreeValue {
       TreeNode right;
       TreeNode(int x) { val = x; }
   }
-   public int findBottomLeftValue(TreeNode root) {
 
-      Map<Integer, TreeNode> levels = new HashMap<Integer, TreeNode>();
-      int depth = collect(root, 0, levels);
+  public class Solution {
+     public int findBottomLeftValue(TreeNode root) {
 
-      return levels.get(depth).val;
-   }
-   private int collect(TreeNode x, int index, Map<Integer, TreeNode> levels) {
-      if(x == null) {
-         return index-1;
-      }
-      if(!levels.containsKey(index)) {
-         levels.put(index, x);
-      }
+        Map<Integer, TreeNode> levels = new HashMap<Integer, TreeNode>();
+        int depth = collect(root, 0, levels);
 
-      int left_depth = collect(x.left, index + 1, levels);
-      int right_depth = collect(x.right, index + 1, levels);
+        return levels.get(depth).val;
+     }
+     private int collect(TreeNode x, int index, Map<Integer, TreeNode> levels) {
+        if(x == null) {
+           return index-1;
+        }
+        if(!levels.containsKey(index)) {
+           levels.put(index, x);
+        }
 
-      return Math.max(left_depth, right_depth);
-   }
+        int left_depth = collect(x.left, index + 1, levels);
+        int right_depth = collect(x.right, index + 1, levels);
+
+        return Math.max(left_depth, right_depth);
+     }
+  }
 }

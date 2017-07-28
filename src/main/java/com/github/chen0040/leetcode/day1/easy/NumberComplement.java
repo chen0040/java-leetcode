@@ -15,24 +15,28 @@ import java.util.List;
  */
 public class NumberComplement
 {
-   public int findComplement(int num) {
-      if(num == 0) return 1;
-      int result = 0;
-      List<Integer> list = new ArrayList<Integer>();
-      while(num > 0) {
-         if((num&1) == 0) {
-            list.add(1);
-         } else {
-            list.add(0);
+   public class Solution {
+      public int findComplement(int num) {
+         if (num == 0)
+            return 1;
+         int result = 0;
+         List<Integer> list = new ArrayList<Integer>();
+         while (num > 0) {
+            if ((num & 1) == 0) {
+               list.add(1);
+            }
+            else {
+               list.add(0);
+            }
+            num >>= 1;
          }
-         num >>= 1;
-      }
 
-      for(int i=list.size()-1; i >= 0; --i) {
-         result <<= 1;
-         result += list.get(i);
-      }
+         for (int i = list.size() - 1; i >= 0; --i) {
+            result <<= 1;
+            result += list.get(i);
+         }
 
-      return result;
+         return result;
+      }
    }
 }

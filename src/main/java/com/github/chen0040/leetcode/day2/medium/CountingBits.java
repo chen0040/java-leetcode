@@ -10,20 +10,22 @@ package com.github.chen0040.leetcode.day2.medium;
  * link: https://leetcode.com/problems/counting-bits/tabs/description
  */
 public class CountingBits {
-   public int[] countBits(int num) {
-      int[] result = new int[num+1];
-      for(int val=0; val <= num; ++val) {
-         result[val] = countBit(val);
+   public class Solution {
+      public int[] countBits(int num) {
+         int[] result = new int[num+1];
+         for(int val=0; val <= num; ++val) {
+            result[val] = countBit(val);
+         }
+         return result;
       }
-      return result;
-   }
 
-   private int countBit(int val) {
-      int count = 0;
-      while(val > 0){
-         count += (val&1) > 0 ? 1 : 0;
-         val >>= 1;
+      private int countBit(int val) {
+         int count = 0;
+         while(val > 0){
+            count += (val&1) > 0 ? 1 : 0;
+            val >>= 1;
+         }
+         return count;
       }
-      return count;
    }
 }
