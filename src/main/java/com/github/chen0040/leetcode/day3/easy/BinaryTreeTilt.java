@@ -1,4 +1,4 @@
-package com.github.chen0040.leetcode.day3;
+package com.github.chen0040.leetcode.day3.easy;
 
 
 /**

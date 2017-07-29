@@ -1,4 +1,4 @@
-package com.github.chen0040.leetcode.day3;
+package com.github.chen0040.leetcode.day3.easy;
 
 
 /**
@@ -7,7 +7,7 @@ package com.github.chen0040.leetcode.day3;
  * summary:
  * Related to question Excel Sheet Column Title
  * Given a column title as appear in an Excel sheet, return its corresponding column number.
- * 
+ *
  * link: https://leetcode.com/problems/excel-sheet-column-number/description/
  */
 public class ExcelSheetColumnNumbers {
