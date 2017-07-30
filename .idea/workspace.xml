@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/RotateImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/MostFrequentSubtreeSums.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,18 +17,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CloneGraph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/CloneGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-              <folding>
-                <element signature="e#1514#1544#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LinkBinaryTreeToLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,12 +88,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateImage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RotateImage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/RotateImage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MostFrequentSubtreeSums.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/MostFrequentSubtreeSums.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
+                <element signature="e#955#956#0" expanded="true" />
+                <element signature="e#1992#2010#0" expanded="true" />
+                <element signature="e#2315#2324#0" expanded="true" />
+                <element signature="e#2610#2619#0" expanded="true" />
+                <element signature="e#3781#3782#0" expanded="true" />
+                <element signature="e#3840#3841#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/TotalHammingDistance.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/AddOneRowToTreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/LargestValueInEachTreeRow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SortCharactersByFrequency.java" />
@@ -211,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SpiralMatrixII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/RotateImage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/MostFrequentSubtreeSums.java" />
       </list>
     </option>
   </component>
@@ -1051,7 +1058,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501417232996</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="rotate image">
+      <created>1501431418623</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1501431418623</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1105,7 +1119,8 @@
     <MESSAGE value="2 medium" />
     <MESSAGE value="2 more medium" />
     <MESSAGE value="make up medium for first day" />
-    <option name="LAST_COMMIT_MESSAGE" value="make up medium for first day" />
+    <MESSAGE value="rotate image" />
+    <option name="LAST_COMMIT_MESSAGE" value="rotate image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1116,13 +1131,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/HammingDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/MergeTwoBinaryTrees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1588,6 +1596,23 @@
         <state relative-caret-position="153">
           <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/MostFrequentSubtreeSums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1992#2010#0" expanded="true" />
+            <element signature="e#2315#2324#0" expanded="true" />
+            <element signature="e#2610#2619#0" expanded="true" />
+            <element signature="e#3781#3782#0" expanded="true" />
+            <element signature="e#3840#3841#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
