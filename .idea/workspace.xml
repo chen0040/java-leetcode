@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/CloneGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreeMaximumSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SumRootToLeafNumbers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,26 +19,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MissingNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/MissingNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentAttendanceRecordII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/StudentAttendanceRecordII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DiameterOfBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/DiameterOfBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,14 +97,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkBinaryTreeToLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkBinaryTreeToLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#598#607#0" expanded="true" />
+                <element signature="e#597#606#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeMaximumSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreeMaximumSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumRootToLeafNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SumRootToLeafNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+              <folding>
+                <element signature="e#1100#1101#0" expanded="true" />
+                <element signature="e#1159#1160#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/ComplexNumberMultiplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/InOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/ArrayPartitionI.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/DistributeCandies.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/HammingDistance.java" />
@@ -201,6 +203,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreePaths.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/CloneGraph.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreeMaximumSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SumRootToLeafNumbers.java" />
       </list>
     </option>
   </component>
@@ -843,12 +847,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501400372693</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2 more medium">
+      <created>1501404150408</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1501404150408</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -860,7 +870,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24694377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24694377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -907,20 +917,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/FindAllNumbersDisappearInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/DetectCapital.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/AverageOfLevelsInBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="808">
@@ -1231,13 +1227,13 @@
         <state relative-caret-position="255">
           <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#649#657#0" expanded="true" />
-            <element signature="e#1525#1533#0" expanded="true" />
-            <element signature="e#1873#1888#0" expanded="true" />
-            <element signature="e#3086#3101#0" expanded="true" />
-            <element signature="e#3434#3449#0" expanded="true" />
-            <element signature="e#3742#3751#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#649#657#0" expanded="false" />
+            <element signature="e#1525#1533#0" expanded="false" />
+            <element signature="e#1873#1888#0" expanded="false" />
+            <element signature="e#3086#3101#0" expanded="false" />
+            <element signature="e#3434#3449#0" expanded="false" />
+            <element signature="e#3742#3751#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1349,10 +1345,29 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#598#607#0" expanded="true" />
+            <element signature="e#597#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreeMaximumSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SumRootToLeafNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+          <folding>
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
           </folding>
         </state>
       </provider>
