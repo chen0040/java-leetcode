@@ -1,4 +1,4 @@
-package com.github.chen0040.leetcode.day4.medium;
+package com.github.chen0040.leetcode.day4.hard;
 
 
 /**
@@ -10,7 +10,7 @@ package com.github.chen0040.leetcode.day4.medium;
  *
  * link: https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
  */
-public class BinaryTreeMaximumSum {
+public class BinaryTreeMaximumPathSum {
      public class TreeNode {
       int val;
       TreeNode left;
