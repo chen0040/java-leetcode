@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day5.easy;
  *
  * summary:
  * Given a linked list, determine if it has a cycle in it.
- * 
+ *
  * link: https://leetcode.com/problems/linked-list-cycle/description/
  */
 public class LinkedListCycle {
