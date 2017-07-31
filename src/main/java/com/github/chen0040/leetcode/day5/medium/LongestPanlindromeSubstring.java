@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day5.medium;
  *
  * summary:
  * Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
- * 
+ *
  * link: https://leetcode.com/problems/longest-palindromic-substring/description/
  */
 public class LongestPanlindromeSubstring {
