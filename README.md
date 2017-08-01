@@ -2,8 +2,34 @@
 
 My daily LeetCode solutions
 
-The solutions were written while I was solving these problems during practice, the solution therefore may not represent the best solution and the source 
+The solutions were written while I was solving these problems during practice, therefore while the solutions were accepted in LeetCode on Submission, they may not represent the best solution and the source 
 codes may not be optimized
+
+### Day 1 - Easy
+
+* [Array Partition I](https://leetcode.com/problems/array-partition-i/tabs/description)
+* [Big Countries](https://leetcode.com/problems/big-countries/tabs/description)
+* [Distribute Candies](https://leetcode.com/problems/distribute-candies/tabs/description)
+* [Hamming Distance](https://leetcode.com/problems/hamming-distance/tabs/description)
+* [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/tabs/description)
+* [Number Complement](https://leetcode.com/problems/number-complement/tabs/description)
+* [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/tabs/description)
+* [Reverse String](https://leetcode.com/problems/reverse-string/tabs/description)
+* [Reverse Words in String III](https://leetcode.com/problems/reverse-words-in-string-iii/description/)
+* [Swap Salary](https://leetcode.com/problems/swap-salary/tabs/description)
+
+### Day 1 - Medium
+
+* [Battleships in a A Board](https://leetcode.com/problems/battleships-in-a-board/tabs/description)
+* [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/tabs/description)
+* [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/tabs/description)
+* [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/tabs/description)
+* [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/)
+* [Single Element in Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+* [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/tabs/description)
+* [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+* [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+* [Top K Frequent Items](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 ### Day 2 - Easy
 
@@ -116,3 +142,4 @@ codes may not be optimized
 * [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)
 * [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [Count And Say](https://leetcode.com/problems/count-and-say/description/)
+* [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
