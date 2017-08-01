@@ -10,7 +10,7 @@ import java.util.List;
  *
  * summary:
  * Given an index k, return the kth row of the Pascal's triangle.
- * 
+ *
  * link: https://leetcode.com/problems/pascals-triangle-ii/description/
  */
 public class PascalsTriangleII {
