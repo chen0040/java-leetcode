@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day6.easy;
  *
  * summary:
  * Given two binary strings, return their sum (also a binary string).
- * 
+ *
  * link: https://leetcode.com/problems/add-binary/description/
  */
 public class AddBinary {

@@ -145,3 +145,5 @@ codes may not be optimized
 * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 * [Plus One](https://leetcode.com/problems/plus-one/description/)
 * [Add Binary](https://leetcode.com/problems/add-binary/description/)
+* [Climb Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+* [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
