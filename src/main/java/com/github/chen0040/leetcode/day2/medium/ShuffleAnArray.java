@@ -6,6 +6,8 @@ import java.util.Random;
 
 /**
  * Created by xschen on 28/7/2017.
+ *
+ * link: https://leetcode.com/problems/shuffle-an-array/description/
  */
 public class ShuffleAnArray {
    public class Solution {
