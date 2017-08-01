@@ -156,3 +156,7 @@ codes may not be optimized
 1. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 1. [Valid Panlindrome](https://leetcode.com/problems/valid-palindrome/description/)
 1. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+
+### Day 6 - Medium
+
+1. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
