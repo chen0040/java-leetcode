@@ -162,3 +162,5 @@ codes may not be optimized
 1. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 1. [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)
 1. [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+1. [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
