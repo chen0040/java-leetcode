@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day6.medium;
  *
  * summary:
  * Given an input string, reverse the string word by word.
- * 
+ *
  * link: https://leetcode.com/problems/reverse-words-in-a-string/description/
  */
 public class ReverseString {
