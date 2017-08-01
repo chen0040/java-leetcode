@@ -143,3 +143,5 @@ codes may not be optimized
 * [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 * [Count And Say](https://leetcode.com/problems/count-and-say/description/)
 * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+* [Plus One](https://leetcode.com/problems/plus-one/description/)
+* [Add Binary](https://leetcode.com/problems/add-binary/description/)
