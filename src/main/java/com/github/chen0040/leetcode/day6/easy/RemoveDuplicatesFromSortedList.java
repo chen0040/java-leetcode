@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day6.easy;
  *
  * summary:
  * Given a sorted linked list, delete all duplicates such that each element appear only once.
- * 
+ *
  * link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
  */
 public class RemoveDuplicatesFromSortedList {

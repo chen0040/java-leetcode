@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ClimbStairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/MergeSortedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PathSum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/AddBinary.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/AddBinary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="777">
-                <caret line="148" column="116" lean-forward="false" selection-start-line="148" selection-start-column="116" selection-end-line="148" selection-end-column="116" />
+              <first_editor relative-caret-position="726">
+                <caret line="150" column="64" lean-forward="false" selection-start-line="150" selection-start-column="64" selection-end-line="150" selection-end-column="64" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -57,18 +57,41 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ClimbStairs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicatesFromSortedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveDuplicatesFromSortedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSortedArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/MergeSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1181#1182#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,26 +126,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortCharactersByFrequency.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SortCharactersByFrequency.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="84" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleElementInSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SingleElementInSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="84" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -144,8 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SymmetricTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/NumberOfIslands.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreePaths.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreeMaximumSum.java" />
@@ -193,8 +194,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/AddBinary.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ClimbStairs.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/MergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PathSum.java" />
       </list>
     </option>
   </component>
@@ -1321,7 +1324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501563224813</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="climb stairs and remove duplicates from sorted list">
+      <created>1501568132780</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1501568132780</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1357,7 +1367,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 3 easy 3 solved" />
     <MESSAGE value="5 easy for today" />
     <MESSAGE value="4 easy for today" />
     <MESSAGE value="1 easy for today" />
@@ -1382,7 +1391,8 @@
     <MESSAGE value="6 easy for today" />
     <MESSAGE value="update docs" />
     <MESSAGE value="add binary and plus one" />
-    <option name="LAST_COMMIT_MESSAGE" value="add binary and plus one" />
+    <MESSAGE value="climb stairs and remove duplicates from sorted list" />
+    <option name="LAST_COMMIT_MESSAGE" value="climb stairs and remove duplicates from sorted list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1393,22 +1403,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/RotateImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/SearchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/CountAndSay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1780,7 +1774,23 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ClimbStairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/MergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -1788,19 +1798,22 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="777">
-            <caret line="148" column="116" lean-forward="false" selection-start-line="148" selection-start-column="116" selection-end-line="148" selection-end-column="116" />
+          <first_editor relative-caret-position="726">
+            <caret line="150" column="64" lean-forward="false" selection-start-line="150" selection-start-column="64" selection-end-line="150" selection-end-column="64" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
