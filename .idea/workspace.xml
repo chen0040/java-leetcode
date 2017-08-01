@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/GroupAnagrams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/BinaryLevelOrderTraversal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -18,15 +18,40 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="500">
-                <caret line="166" column="77" lean-forward="false" selection-start-line="166" selection-start-column="77" selection-end-line="166" selection-end-column="77" />
+              <first_editor relative-caret-position="432">
+                <caret line="167" column="115" lean-forward="false" selection-start-line="167" selection-start-column="115" selection-end-line="167" selection-end-column="115" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryLevelOrderTraversalII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BinaryLevelOrderTraversalII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="55" column="4" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="55" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryLevelOrderTraversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/BinaryLevelOrderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#727#742#0" expanded="true" />
+                <element signature="e#844#868#0" expanded="true" />
+                <element signature="e#1415#1424#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,16 +106,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntersectionOfTwoLinkedLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/IntersectionOfTwoLinkedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BestTimeToBuyAndSellStockII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BestTimeToBuyAndSellStockII.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,21 +134,6 @@
             <state relative-caret-position="187">
               <caret line="11" column="70" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="70" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidPanlindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ValidPanlindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="68" />
-              <folding>
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/RomanToInt.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/SqrtX.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/ExcelSheetColumnTitle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/LinkedListCycle.java" />
@@ -218,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SortColors.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/BinaryLevelOrderTraversal.java" />
       </list>
     </option>
   </component>
@@ -1440,7 +1440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501584037548</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="group anagrams">
+      <created>1501590873561</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1501590873562</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1476,7 +1483,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="most frequent subtree sums" />
     <MESSAGE value="sqrt x and roman to int" />
     <MESSAGE value="excel sheet column title and linked list cycle" />
     <MESSAGE value="min stack and reverse integer" />
@@ -1501,7 +1507,8 @@
     <MESSAGE value="swap nodes in pairs" />
     <MESSAGE value="search for a range and search in rotated sorted array" />
     <MESSAGE value="set matrix zeroes and sort colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="set matrix zeroes and sort colors" />
+    <MESSAGE value="group anagrams" />
+    <option name="LAST_COMMIT_MESSAGE" value="group anagrams" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1512,14 +1519,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/CountingBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/FindAllDuplicatesInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1840,19 +1839,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BinaryLevelOrderTraversalII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#763#778#0" expanded="false" />
-            <element signature="e#880#904#0" expanded="false" />
-            <element signature="e#1446#1455#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1950,14 +1936,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BinaryLevelOrderTraversalII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="55" column="4" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="55" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="500">
-            <caret line="166" column="77" lean-forward="false" selection-start-line="166" selection-start-column="77" selection-end-line="166" selection-end-column="77" />
+          <first_editor relative-caret-position="432">
+            <caret line="167" column="115" lean-forward="false" selection-start-line="167" selection-start-column="115" selection-end-line="167" selection-end-column="115" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/BinaryLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#727#742#0" expanded="true" />
+            <element signature="e#844#868#0" expanded="true" />
+            <element signature="e#1415#1424#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
