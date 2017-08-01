@@ -12,7 +12,7 @@ import java.util.Map;
  *
  * summary:
  * Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
- * 
+ *
  * link: https://leetcode.com/problems/binary-tree-level-order-traversal/description/
  */
 public class BinaryLevelOrderTraversal {
