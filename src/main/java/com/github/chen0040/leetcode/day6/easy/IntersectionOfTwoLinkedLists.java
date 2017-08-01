@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day6.easy;
  *
  * summary:
  * Write a program to find the node at which the intersection of two singly linked lists begins.
- * 
+ *
  * link: https://leetcode.com/problems/intersection-of-two-linked-lists/description/
  */
 public class IntersectionOfTwoLinkedLists {
