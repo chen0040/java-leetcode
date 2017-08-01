@@ -8,7 +8,7 @@ package com.github.chen0040.leetcode.day6.medium;
  * Given a linked list, swap every two adjacent nodes and return its head.
  * For example,
  * Given 1->2->3->4, you should return the list as 2->1->4->3.
- * 
+ *
  * link: https://leetcode.com/problems/swap-nodes-in-pairs/description/
  */
 public class SwapNodesInPairs {

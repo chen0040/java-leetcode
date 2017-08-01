@@ -160,3 +160,5 @@ codes may not be optimized
 ### Day 6 - Medium
 
 1. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+1. [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)
+1. [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
