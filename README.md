@@ -168,3 +168,4 @@ codes may not be optimized
 1. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 1. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 1. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+1. [Repeated DNA Sequence](https://leetcode.com/problems/repeated-dna-sequences/description/)

@@ -6,7 +6,7 @@ import com.github.chen0040.leetcode.day6.easy.IntersectionOfTwoLinkedLists;
 
 /**
  * Created by xschen on 1/8/2017.
- * 
+ *
  * link: https://leetcode.com/problems/linked-list-cycle-ii/description/
  */
 public class LinkedListCycleII {
