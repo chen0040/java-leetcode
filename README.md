@@ -169,3 +169,7 @@ codes may not be optimized
 1. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 1. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 1. [Repeated DNA Sequence](https://leetcode.com/problems/repeated-dna-sequences/description/)
+
+### Day 7 - Easy
+
+1. [Two Sums - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
