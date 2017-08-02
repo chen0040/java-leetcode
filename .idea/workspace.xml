@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/Combinations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/PanlindromeLinkedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/UniqueBinarySearchTrees.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/UniqueBinarySearchTrees.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="514">
-                <caret line="206" column="73" lean-forward="false" selection-start-line="206" selection-start-column="73" selection-end-line="206" selection-end-column="73" />
+              <first_editor relative-caret-position="262">
+                <caret line="194" column="94" lean-forward="false" selection-start-line="194" selection-start-column="94" selection-end-line="194" selection-end-column="94" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Combinations.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Combinations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/Combinations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
@@ -97,6 +96,16 @@
                 <element signature="e#2215#2230#0" expanded="true" />
                 <element signature="e#2317#2326#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PanlindromeLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/PanlindromeLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,19 +146,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiplyStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/MultiplyStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#504#522#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -179,7 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PathSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PascalsTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PascalsTriangleII.java" />
@@ -228,8 +223,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/CombinationSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/ValidBST.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/UniqueBinarySearchTrees.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/Combinations.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/PanlindromeLinkedList.java" />
       </list>
     </option>
   </component>
@@ -1265,13 +1261,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00021" summary="make up medium for first day">
-      <created>1501417232996</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1501417232996</updated>
-    </task>
     <task id="LOCAL-00022" summary="rotate image">
       <created>1501431418623</created>
       <option name="number" value="00022" />
@@ -1608,7 +1597,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501679116401</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="combinations">
+      <created>1501680766184</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1501680766184</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1643,7 +1639,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="best time to buy and sell stock ii" />
     <MESSAGE value="swap nodes in pairs" />
     <MESSAGE value="search for a range and search in rotated sorted array" />
     <MESSAGE value="set matrix zeroes and sort colors" />
@@ -1668,7 +1663,8 @@
     <MESSAGE value="permutation and search in rotated sorted array ii" />
     <MESSAGE value="valid bst and combination sum" />
     <MESSAGE value="unique binary search trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="unique binary search trees" />
+    <MESSAGE value="combinations" />
+    <option name="LAST_COMMIT_MESSAGE" value="combinations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1679,17 +1675,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -2102,17 +2087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="514">
-            <caret line="206" column="73" lean-forward="false" selection-start-line="206" selection-start-column="73" selection-end-line="206" selection-end-column="73" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/UniqueBinarySearchTrees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -2136,6 +2110,25 @@
             <element signature="e#2215#2230#0" expanded="true" />
             <element signature="e#2317#2326#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="262">
+            <caret line="194" column="94" lean-forward="false" selection-start-line="194" selection-start-column="94" selection-end-line="194" selection-end-column="94" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/PanlindromeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
