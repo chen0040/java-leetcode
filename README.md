@@ -191,3 +191,4 @@ codes may not be optimized
 1. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
 1. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 1. [Power of Two](https://leetcode.com/problems/power-of-two/description/)
+1. [Count Primes](https://leetcode.com/problems/count-primes/description/)

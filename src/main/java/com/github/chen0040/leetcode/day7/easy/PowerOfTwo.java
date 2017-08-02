@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day7.easy;
  *
  * summary:
  * Given an integer, write a function to determine if it is a power of two.
- * 
+ *
  * link: https://leetcode.com/problems/power-of-two/description/
  */
 public class PowerOfTwo {
