@@ -180,3 +180,4 @@ codes may not be optimized
 1. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 1. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+1. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/)
