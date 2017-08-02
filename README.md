@@ -177,3 +177,4 @@ codes may not be optimized
 1. [Employees earning more than their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
 1. [Find Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)
 1. [Find Customers who never orders](https://leetcode.com/problems/customers-who-never-order/description/)
+1. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
