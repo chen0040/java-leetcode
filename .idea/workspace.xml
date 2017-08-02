@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ValidPhoneNumbers.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DeleteDuplicateEmails.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TenthLine.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,15 +19,35 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="432">
-                <caret line="182" column="88" lean-forward="false" selection-start-line="182" selection-start-column="88" selection-end-line="182" selection-end-column="88" />
+              <first_editor relative-caret-position="466">
+                <caret line="184" column="95" lean-forward="false" selection-start-line="184" selection-start-column="95" selection-end-line="184" selection-end-column="95" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteDuplicateEmails.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DeleteDuplicateEmails.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="75" lean-forward="false" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TenthLine.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TenthLine.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="61" lean-forward="false" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -90,29 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoSumsSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TwoSumsSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#887#905#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FactorialTrailingZeroes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/FactorialTrailingZeroes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -157,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/KthLargestElementInAnArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/LetterCominationsOfPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/NthHighestSalary.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/SecondHighestSalary.sql" />
@@ -207,6 +202,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ReverseBits.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ValidPhoneNumbers.sh" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TenthLine.sh" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DeleteDuplicateEmails.sql" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -1209,13 +1206,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00009" summary="update for day 1">
-      <created>1501306966794</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1501306966794</updated>
-    </task>
     <task id="LOCAL-00010" summary="day 3 easy 3 solved">
       <created>1501310342608</created>
       <option name="number" value="00010" />
@@ -1552,7 +1542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501645717547</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="number of 1 bits and valid phone numbers">
+      <created>1501647418393</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1501647418393</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1588,7 +1585,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="select nth highest salary and letter combinations of phone number" />
     <MESSAGE value="atoi and second highest salary" />
     <MESSAGE value="remove n-th node from end of list" />
     <MESSAGE value="6 easy for today" />
@@ -1613,7 +1609,8 @@
     <MESSAGE value="factorial trailing zeroes and employees earning more than their managers" />
     <MESSAGE value="find customers who never order and rotate array" />
     <MESSAGE value="reverse bits and number of 1 bits" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse bits and number of 1 bits" />
+    <MESSAGE value="number of 1 bits and valid phone numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="number of 1 bits and valid phone numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1624,20 +1621,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/ReverseWordsInStringIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="79" lean-forward="false" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/SwapSalary.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1992,7 +1975,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -2005,14 +1988,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TenthLine.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="61" lean-forward="false" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="432">
-            <caret line="182" column="88" lean-forward="false" selection-start-line="182" selection-start-column="88" selection-end-line="182" selection-end-column="88" />
+          <first_editor relative-caret-position="466">
+            <caret line="184" column="95" lean-forward="false" selection-start-line="184" selection-start-column="95" selection-end-line="184" selection-end-column="95" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DeleteDuplicateEmails.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="75" lean-forward="false" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
