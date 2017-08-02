@@ -6,7 +6,7 @@ package com.github.chen0040.leetcode.day7.medium;
  *
  * summary:
  * Given n, how many structurally unique BST's (binary search trees) that store values 1...n?
- * 
+ *
  * link: https://leetcode.com/problems/unique-binary-search-trees/description/
  */
 public class UniqueBinarySearchTrees {
