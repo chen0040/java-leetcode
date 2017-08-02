@@ -189,3 +189,5 @@ codes may not be optimized
 1. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
 1. [Contains Duplicates II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 1. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
+1. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+1. [Power of Two](https://leetcode.com/problems/power-of-two/description/)
