@@ -178,3 +178,5 @@ codes may not be optimized
 1. [Find Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)
 1. [Find Customers who never orders](https://leetcode.com/problems/customers-who-never-order/description/)
 1. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+1. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
