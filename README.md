@@ -173,3 +173,5 @@ codes may not be optimized
 ### Day 7 - Easy
 
 1. [Two Sums - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+1. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
+1. [Employees earning more than their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
