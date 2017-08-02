@@ -199,3 +199,5 @@ codes may not be optimized
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 1. [Word Search](https://leetcode.com/problems/word-search/description/)
 1. [Simplify Path](https://leetcode.com/problems/simplify-path/description/)
+1. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+1. [Permutations II](https://leetcode.com/problems/permutations-ii/description/)

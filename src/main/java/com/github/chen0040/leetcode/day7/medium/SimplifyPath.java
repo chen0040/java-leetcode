@@ -12,7 +12,7 @@ import java.util.Stack;
  * For example,
  * path = "/home/", => "/home"
  * path = "/a/./b/../../c/", => "/c"
- * 
+ *
  * link: https://leetcode.com/problems/simplify-path/description/
  */
 public class SimplifyPath {
