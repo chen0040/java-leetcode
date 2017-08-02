@@ -10,7 +10,7 @@ package com.github.chen0040.leetcode.day7.medium;
  * The left subtree of a node contains only nodes with keys less than the node's key.
  * The right subtree of a node contains only nodes with keys greater than the node's key.
  * Both the left and right subtrees must also be binary search trees.
- * 
+ *
  * link: https://leetcode.com/problems/validate-binary-search-tree/description/
  */
 public class ValidBST {
