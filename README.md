@@ -201,3 +201,5 @@ codes may not be optimized
 1. [Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 1. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 1. [Permutations II](https://leetcode.com/problems/permutations-ii/description/)
+1. [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
+1. [Valid BST](https://leetcode.com/problems/validate-binary-search-tree/description/)
