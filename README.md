@@ -175,3 +175,5 @@ codes may not be optimized
 1. [Two Sums - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 1. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
 1. [Employees earning more than their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
+1. [Find Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)
+1. [Find Customers who never orders](https://leetcode.com/problems/customers-who-never-order/description/)
