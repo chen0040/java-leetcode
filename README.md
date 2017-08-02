@@ -192,3 +192,8 @@ codes may not be optimized
 1. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 1. [Power of Two](https://leetcode.com/problems/power-of-two/description/)
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
+
+### Day 7 - Medium
+
+1. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
+1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
