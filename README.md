@@ -183,3 +183,5 @@ codes may not be optimized
 1. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/)
 1. [10th Line](https://leetcode.com/problems/tenth-line/description/)
 1. [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)
+1. [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)
+1. [House Robber](https://leetcode.com/problems/house-robber/description/)
