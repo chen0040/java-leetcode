@@ -185,3 +185,5 @@ codes may not be optimized
 1. [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)
 1. [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)
 1. [House Robber](https://leetcode.com/problems/house-robber/description/)
+1. [Happy Number](https://leetcode.com/problems/happy-number/description/)
+1. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
