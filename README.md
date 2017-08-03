@@ -208,3 +208,7 @@ codes may not be optimized
 1. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 1. [Combinations](https://leetcode.com/problems/combinations/description/)
 1. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
+
+### Day 8 - Easy
+
+1. [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
