@@ -213,3 +213,8 @@ codes may not be optimized
 
 1. [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 1. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+
+### Day 8 - Medium
+
+1. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
+1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
