@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/UglyNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/DeleteNodeInLinkedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/RotateList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/RotateList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,12 +22,35 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="777">
-                <caret line="213" column="71" lean-forward="false" selection-start-line="213" selection-start-column="71" selection-end-line="213" selection-end-column="71" />
+              <first_editor relative-caret-position="726">
+                <caret line="214" column="105" lean-forward="false" selection-start-line="214" selection-start-column="105" selection-end-line="214" selection-end-column="105" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteNodeInLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/DeleteNodeInLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -68,26 +89,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/ValidBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/UniqueBinarySearchTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -162,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BinaryLevelOrderTraversalII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ValidPanlindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/IntersectionOfTwoLinkedLists.java" />
@@ -212,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/AddDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/RotateList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/UglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/DeleteNodeInLinkedList.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -318,6 +319,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="day8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -734,13 +769,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00025" summary="excel sheet column title and linked list cycle">
-      <created>1501470551833</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1501470551833</updated>
-    </task>
     <task id="LOCAL-00026" summary="min stack and reverse integer">
       <created>1501472065178</created>
       <option name="number" value="00026" />
@@ -1077,7 +1105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501683293524</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="ugly number">
+      <created>1501722813062</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1501722813063</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1113,7 +1148,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="group anagrams" />
     <MESSAGE value="binary tree level order traversal" />
     <MESSAGE value="reverse words in string" />
     <MESSAGE value="cyclic linked list ii" />
@@ -1138,7 +1172,8 @@
     <MESSAGE value="panlindrome linked list" />
     <MESSAGE value="add digits" />
     <MESSAGE value="rotate list" />
-    <option name="LAST_COMMIT_MESSAGE" value="rotate list" />
+    <MESSAGE value="ugly number" />
+    <option name="LAST_COMMIT_MESSAGE" value="ugly number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1149,20 +1184,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SearchForARange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="70" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SearchInRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="82" lean-forward="false" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SetMatrixZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1528,11 +1549,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/DeleteNodeInLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="777">
-            <caret line="213" column="71" lean-forward="false" selection-start-line="213" selection-start-column="71" selection-end-line="213" selection-end-column="71" />
+          <first_editor relative-caret-position="726">
+            <caret line="214" column="105" lean-forward="false" selection-start-line="214" selection-start-column="105" selection-end-line="214" selection-end-column="105" />
             <folding />
           </first_editor>
           <second_editor />
