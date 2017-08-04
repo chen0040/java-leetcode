@@ -12,7 +12,7 @@ package com.github.chen0040.leetcode.day9.easy;
 public class IsPowerOfThree {
    public class Solution {
       public boolean isPowerOfThree(int n) {
-         return n == 0 || ((int)Math.pow(3, 19)) % n == 0;
+         return n > 0 || ((int)Math.pow(3, 19)) % n == 0;
       }
    }
 }
