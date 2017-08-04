@@ -225,6 +225,7 @@ codes may not be optimized
 1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 1. [Nim Game](https://leetcode.com/problems/nim-game/description/)
 1. [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+1. [Reverse Vowels in a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 
 ### Day 9 - Medium
 
