@@ -229,6 +229,7 @@ codes may not be optimized
 1. [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/description/)
 1. [Power of Three](https://leetcode.com/problems/power-of-three/description/)
 1. [Power of Four](https://leetcode.com/problems/power-of-four/description/)
+1. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 
 ### Day 9 - Medium
 
