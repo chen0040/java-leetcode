@@ -219,3 +219,7 @@ codes may not be optimized
 
 1. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
 1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+
+### Day 9 - Medium
+
+1. [Construct Binary Tree from Preorder and Inorder Traversals](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
