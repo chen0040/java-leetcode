@@ -231,6 +231,7 @@ codes may not be optimized
 1. [Power of Four](https://leetcode.com/problems/power-of-four/description/)
 1. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 1. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+1. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 
 ### Day 9 - Medium
 
