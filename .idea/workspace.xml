@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IntersectionOfTwoArrays.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfThree.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfThree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="381">
-                <caret line="231" column="89" lean-forward="false" selection-start-line="231" selection-start-column="89" selection-end-line="231" selection-end-column="89" />
+              <first_editor relative-caret-position="398">
+                <caret line="232" column="101" lean-forward="false" selection-start-line="232" selection-start-column="101" selection-end-line="232" selection-end-column="101" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -66,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsPowerOfThree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IsPowerOfThree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfThree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -74,6 +75,20 @@
               <folding>
                 <element signature="e#355#356#0" expanded="true" />
                 <element signature="e#421#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntersectionOfTwoArrays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IntersectionOfTwoArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="68" lean-forward="false" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#473#482#0" expanded="true" />
+                <element signature="e#615#624#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,16 +133,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HouseRobber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/HouseRobber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/MoveZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -167,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/LinkedListCycle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/LinkedListCycleII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/RepeatedDNASequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TwoSumsSortedArray.java" />
@@ -215,9 +219,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/ReverseVowels.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/RangeSumQuery.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/ValidPerfectSquare.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfThree.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IntersectionOfTwoArrays.java" />
       </list>
     </option>
   </component>
@@ -807,13 +812,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00038" summary="climb stairs and remove duplicates from sorted list">
-      <created>1501568132780</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1501568132780</updated>
-    </task>
     <task id="LOCAL-00039" summary="merge sorted array and path sum">
       <created>1501568525277</created>
       <option name="number" value="00039" />
@@ -1150,7 +1148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501858384502</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="power of 3 fixed">
+      <created>1501858494464</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1501858494464</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1186,7 +1191,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="contains duplicates and implements stack using queues" />
     <MESSAGE value="queue implementation using stack and power of two" />
     <MESSAGE value="count primes" />
     <MESSAGE value="remove duplicates from sorted array II and multiply strings" />
@@ -1211,7 +1215,8 @@
     <MESSAGE value="power of 3" />
     <MESSAGE value="power of 4" />
     <MESSAGE value="valid perfect square" />
-    <option name="LAST_COMMIT_MESSAGE" value="valid perfect square" />
+    <MESSAGE value="power of 3 fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="power of 3 fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1222,13 +1227,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/EmployeesEarningMoreThanTheirManager.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="94" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DuplicateEmails.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1583,17 +1581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="381">
-            <caret line="231" column="89" lean-forward="false" selection-start-line="231" selection-start-column="89" selection-end-line="231" selection-end-column="89" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1620,6 +1607,29 @@
           <folding>
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="398">
+            <caret line="232" column="101" lean-forward="false" selection-start-line="232" selection-start-column="101" selection-end-line="232" selection-end-column="101" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IntersectionOfTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="68" lean-forward="false" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#482#0" expanded="true" />
+            <element signature="e#615#624#0" expanded="true" />
           </folding>
         </state>
       </provider>
