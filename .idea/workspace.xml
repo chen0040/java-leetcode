@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfThree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -18,15 +18,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="398">
-                <caret line="229" column="77" lean-forward="false" selection-start-line="229" selection-start-column="77" selection-end-line="229" selection-end-column="77" />
+              <first_editor relative-caret-position="364">
+                <caret line="230" column="75" lean-forward="false" selection-start-line="230" selection-start-column="75" selection-end-line="230" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsPowerOfFour.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,19 +109,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructBinaryTreesFromPreorderAndInorderTraversals.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/medium/ConstructBinaryTreesFromPreorderAndInorderTraversals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="77" lean-forward="false" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
-              <folding>
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ClimbStairs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ClimbStairs.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/BinaryLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/LinkedListCycle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/LinkedListCycleII.java" />
@@ -219,6 +218,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/RangeSumQuery.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfThree.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java" />
       </list>
     </option>
   </component>
@@ -808,13 +808,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00035" summary="6 easy for today">
-      <created>1501560885036</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1501560885036</updated>
-    </task>
     <task id="LOCAL-00036" summary="update docs">
       <created>1501561533627</created>
       <option name="number" value="00036" />
@@ -1151,7 +1144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501852162562</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="power of 3">
+      <created>1501856026384</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1501856026384</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1187,7 +1187,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="delete duplicate email and print 10th line" />
     <MESSAGE value="Rising temperature and house robber" />
     <MESSAGE value="happy number and remove linked list elements" />
     <MESSAGE value="contains duplicates and implements stack using queues" />
@@ -1212,7 +1211,8 @@
     <MESSAGE value="first bad version" />
     <MESSAGE value="reverse vowels in a string" />
     <MESSAGE value="range sum query" />
-    <option name="LAST_COMMIT_MESSAGE" value="range sum query" />
+    <MESSAGE value="power of 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="power of 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1223,13 +1223,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/FactorialTrailingZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/EmployeeEarningMoreThanTheirManager/sql.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/EmployeesEarningMoreThanTheirManager.sql">
       <provider selected="true" editor-type-id="text-editor">
@@ -1606,11 +1599,22 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="398">
-            <caret line="229" column="77" lean-forward="false" selection-start-line="229" selection-start-column="77" selection-end-line="229" selection-end-column="77" />
+          <first_editor relative-caret-position="364">
+            <caret line="230" column="75" lean-forward="false" selection-start-line="230" selection-start-column="75" selection-end-line="230" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
