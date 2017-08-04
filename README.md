@@ -227,6 +227,7 @@ codes may not be optimized
 1. [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 1. [Reverse Vowels in a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 1. [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/description/)
+1. [Power of Three](https://leetcode.com/problems/power-of-three/description/)
 
 ### Day 9 - Medium
 
