@@ -224,6 +224,7 @@ codes may not be optimized
 
 1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 1. [Nim Game](https://leetcode.com/problems/nim-game/description/)
+1. [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 
 ### Day 9 - Medium
 
