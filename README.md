@@ -232,6 +232,7 @@ codes may not be optimized
 1. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 1. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 1. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+1. [Guess Number High Or Low](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 
 ### Day 9 - Medium
 

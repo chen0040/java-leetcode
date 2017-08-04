@@ -12,7 +12,7 @@ import java.util.Map;
  *
  * summary:
  * Given two arrays, write a function to compute their intersection.
- * 
+ *
  * link: https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
  */
 public class IntersectionOfTwoArraysII {
