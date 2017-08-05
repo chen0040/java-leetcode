@@ -249,3 +249,5 @@ codes may not be optimized
 ### Day 10 - Easy
 
 1. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+1. [Construct String from Binary Search Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
+1. [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
