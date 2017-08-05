@@ -7,7 +7,7 @@ package com.github.chen0040.leetcode.day8.easy;
  * summary:
  * Count the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.
  * Please note that the string does not contain any non-printable characters.
- * 
+ *
  * link: https://leetcode.com/problems/number-of-segments-in-a-string/description/
  */
 public class NumberOfSegmentsInString {

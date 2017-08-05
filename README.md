@@ -245,3 +245,7 @@ codes may not be optimized
 ### Day 9 - Medium
 
 1. [Construct Binary Tree from Preorder and Inorder Traversals](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+
+### Day 10 - Easy
+
+1. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
