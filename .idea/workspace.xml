@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LongestPanlindrome.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LongestPanlindrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="335">
-                <caret line="222" column="78" lean-forward="false" selection-start-line="222" selection-start-column="78" selection-end-line="222" selection-end-column="78" />
+              <first_editor relative-caret-position="352">
+                <caret line="223" column="109" lean-forward="false" selection-start-line="223" selection-start-column="109" selection-end-line="223" selection-end-column="109" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,15 +55,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThirdMax.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThirdMax.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#664#673#0" expanded="true" />
+                <element signature="e#663#672#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOfSegmentsInString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,16 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntersectionOfTwoArraysII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IntersectionOfTwoArraysII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GuessNumberHighOrLow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/GuessNumberHighOrLow.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ValidPhoneNumbers.sh" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TenthLine.sh" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DeleteDuplicateEmails.sql" />
@@ -217,8 +216,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/AddStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LongestPanlindrome.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java" />
       </list>
     </option>
   </component>
@@ -872,13 +872,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00046" summary="search for a range and search in rotated sorted array">
-      <created>1501582740696</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1501582740696</updated>
-    </task>
     <task id="LOCAL-00047" summary="set matrix zeroes and sort colors">
       <created>1501584037548</created>
       <option name="number" value="00047" />
@@ -1215,7 +1208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501903922040</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="third max">
+      <created>1501905692113</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1501905692113</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1251,7 +1251,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="combinations" />
     <MESSAGE value="panlindrome linked list" />
     <MESSAGE value="add digits" />
     <MESSAGE value="rotate list" />
@@ -1276,7 +1275,8 @@
     <MESSAGE value="convert to hexadecimal" />
     <MESSAGE value="add strings" />
     <MESSAGE value="longest panlindrome" />
-    <option name="LAST_COMMIT_MESSAGE" value="longest panlindrome" />
+    <MESSAGE value="third max" />
+    <option name="LAST_COMMIT_MESSAGE" value="third max" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1287,13 +1287,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/RisingTemperature.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="135" lean-forward="false" selection-start-line="1" selection-start-column="135" selection-end-line="1" selection-end-column="135" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/HappyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1664,25 +1657,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#663#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="335">
-            <caret line="222" column="78" lean-forward="false" selection-start-line="222" selection-start-column="78" selection-end-line="222" selection-end-column="78" />
+          <first_editor relative-caret-position="352">
+            <caret line="223" column="109" lean-forward="false" selection-start-line="223" selection-start-column="109" selection-end-line="223" selection-end-column="109" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#664#673#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>

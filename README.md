@@ -221,6 +221,7 @@ codes may not be optimized
 1. [Add Strings](https://leetcode.com/problems/add-strings/description/)
 1. [Longest Panlindrome](https://leetcode.com/problems/longest-palindrome/description/)
 1. [Third Max](https://leetcode.com/problems/third-maximum-number/description/)
+1. [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)
 
 ### Day 8 - Medium
 
