@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ClassMoreThan5Students.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/MinimumIndexSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/Heaters.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -23,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="743">
-                <caret line="257" column="110" lean-forward="false" selection-start-line="257" selection-start-column="110" selection-end-line="257" selection-end-column="110" />
+              <first_editor relative-caret-position="760">
+                <caret line="258" column="63" lean-forward="false" selection-start-line="258" selection-start-column="63" selection-end-line="258" selection-end-column="63" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Heaters.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/Heaters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,17 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ClassMoreThan5Students.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="80" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="80" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="80" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -171,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ImplementQueueUsingStacks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/PowerOfTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/CountPrimes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/RemoveDuplicatesFromSortedArrayII.java" />
@@ -221,6 +219,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/MinimumIndexSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ClassMoreThan5Students" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ClassMoreThan5Students.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/Heaters.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -777,13 +776,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00051" summary="cyclic linked list ii">
-      <created>1501593808206</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1501593808206</updated>
-    </task>
     <task id="LOCAL-00052" summary="repeated DNA sequence">
       <created>1501595119031</created>
       <option name="number" value="00052" />
@@ -1120,7 +1112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501923526615</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="class with more than 4 students">
+      <created>1501924220388</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1501924220388</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1156,7 +1155,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="delete node in a linked list" />
     <MESSAGE value="valid sudoku and add two numbers ii" />
     <MESSAGE value="lowest common ancestor" />
     <MESSAGE value="construct binary from pre order and in order traversals" />
@@ -1181,7 +1179,8 @@
     <MESSAGE value="find all anagrams" />
     <MESSAGE value="set mismatch" />
     <MESSAGE value="can place flowers" />
-    <option name="LAST_COMMIT_MESSAGE" value="can place flowers" />
+    <MESSAGE value="class with more than 4 students" />
+    <option name="LAST_COMMIT_MESSAGE" value="class with more than 4 students" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1192,13 +1191,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/SimplifyPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/SearchInRotatedSortedArrayII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1600,7 +1592,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ClassMoreThan5Students.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="80" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="80" />
+          <caret line="0" column="80" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/Heaters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -1608,8 +1608,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="743">
-            <caret line="257" column="110" lean-forward="false" selection-start-line="257" selection-start-column="110" selection-end-line="257" selection-end-column="110" />
+          <first_editor relative-caret-position="760">
+            <caret line="258" column="63" lean-forward="false" selection-start-line="258" selection-start-column="63" selection-end-line="258" selection-end-column="63" />
             <folding />
           </first_editor>
           <second_editor />
