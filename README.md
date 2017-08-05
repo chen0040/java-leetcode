@@ -214,6 +214,9 @@ codes may not be optimized
 1. [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 1. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 1. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+1. [Find the difference](https://leetcode.com/problems/find-the-difference/description/)
+1. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+1. [Nth Digit](https://leetcode.com/problems/nth-digit/description/)
 
 ### Day 8 - Medium
 
