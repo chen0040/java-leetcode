@@ -220,6 +220,7 @@ codes may not be optimized
 1. [Convert to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 1. [Add Strings](https://leetcode.com/problems/add-strings/description/)
 1. [Longest Panlindrome](https://leetcode.com/problems/longest-palindrome/description/)
+1. [Third Max](https://leetcode.com/problems/third-maximum-number/description/)
 
 ### Day 8 - Medium
 
