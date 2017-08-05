@@ -251,3 +251,6 @@ codes may not be optimized
 1. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 1. [Construct String from Binary Search Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 1. [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
+1. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
+1. [Max Average Sub Array](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+1. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
