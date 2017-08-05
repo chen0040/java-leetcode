@@ -217,6 +217,7 @@ codes may not be optimized
 1. [Find the difference](https://leetcode.com/problems/find-the-difference/description/)
 1. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 1. [Nth Digit](https://leetcode.com/problems/nth-digit/description/)
+1. [Convert to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
 
 ### Day 8 - Medium
 

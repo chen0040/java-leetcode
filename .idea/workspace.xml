@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/FindTheDifference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NthDigit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/RansomNote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -20,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="369">
-                <caret line="218" column="67" lean-forward="false" selection-start-line="218" selection-start-column="67" selection-end-line="218" selection-end-column="67" />
+              <first_editor relative-caret-position="386">
+                <caret line="219" column="102" lean-forward="false" selection-start-line="219" selection-start-column="102" selection-end-line="219" selection-end-column="102" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -59,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NthDigit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NthDigit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NthDigit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -69,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsPowerOfFour.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java">
+      <file leaf-file-name="ConvertToHexadecimal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="221">
+              <caret line="13" column="83" lean-forward="false" selection-start-line="13" selection-start-column="83" selection-end-line="13" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -163,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DuplicateEmails.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/FindCustomersWhoNeverOrder.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ReverseBits.java" />
@@ -212,8 +209,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/GuessNumberHighOrLow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/RansomNote.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/FindTheDifference.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NthDigit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -867,13 +865,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00042" summary="binary level order traversal and best time to buy and sell stock">
-      <created>1501571553617</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1501571553617</updated>
-    </task>
     <task id="LOCAL-00043" summary="valid panlindrome and intersection of two linked lists">
       <created>1501574754509</created>
       <option name="number" value="00043" />
@@ -1210,7 +1201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501860522293</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="nth digit">
+      <created>1501900026332</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1501900026333</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1246,7 +1244,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="simplify path and word search" />
     <MESSAGE value="permutation and search in rotated sorted array ii" />
     <MESSAGE value="valid bst and combination sum" />
     <MESSAGE value="unique binary search trees" />
@@ -1271,7 +1268,8 @@
     <MESSAGE value="intersection of two arrays" />
     <MESSAGE value="intersection of two arrays ii" />
     <MESSAGE value="guess number hi or lo" />
-    <option name="LAST_COMMIT_MESSAGE" value="guess number hi or lo" />
+    <MESSAGE value="nth digit" />
+    <option name="LAST_COMMIT_MESSAGE" value="nth digit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1282,13 +1280,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ValidPhoneNumbers.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1652,22 +1643,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="369">
-            <caret line="218" column="67" lean-forward="false" selection-start-line="218" selection-start-column="67" selection-end-line="218" selection-end-column="67" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NthDigit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="93" lean-forward="false" selection-start-line="7" selection-start-column="93" selection-end-line="7" selection-end-column="93" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="83" lean-forward="false" selection-start-line="13" selection-start-column="83" selection-end-line="13" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="386">
+            <caret line="219" column="102" lean-forward="false" selection-start-line="219" selection-start-column="102" selection-end-line="219" selection-end-column="102" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
