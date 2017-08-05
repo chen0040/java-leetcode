@@ -254,3 +254,5 @@ codes may not be optimized
 1. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)
 1. [Max Average Sub Array](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 1. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+1. [Minimum Index Sum](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
+1. [Classes with more than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)
