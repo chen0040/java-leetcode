@@ -259,3 +259,12 @@ codes may not be optimized
 1. [Heaters](https://leetcode.com/problems/heaters/description/)
 1. [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)
 1. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+
+### Day 10 - Medium
+
+1. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)
+
+### Day 11 - Medium
+
+1. [Design Twitter]()
+1. [Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)

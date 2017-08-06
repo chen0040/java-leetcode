@@ -17,7 +17,7 @@ public class SubtreeOfAnotherTree {
       TreeNode right;
       TreeNode(int x) { val = x; }
   }
- 
+
    public class Solution {
       public boolean isSubtree(TreeNode s, TreeNode t) {
          if(s == null && t == null) return true;
