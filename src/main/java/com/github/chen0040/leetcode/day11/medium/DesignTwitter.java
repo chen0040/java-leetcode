@@ -13,7 +13,7 @@ import java.util.*;
  * getNewsFeed(userId): Retrieve the 10 most recent tweet ids in the user's news feed. Each item in the news feed must be posted by users who the user followed or by the user herself. Tweets must be ordered from most recent to least recent.
  * follow(followerId, followeeId): Follower follows a followee.
  * unfollow(followerId, followeeId): Follower unfollows a followee.
- * 
+ *
  * link: https://leetcode.com/problems/design-twitter/description/
  */
 public class DesignTwitter {

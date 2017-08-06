@@ -268,6 +268,7 @@ codes may not be optimized
 
 1. [Two Sums IV - Tree is BST](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/two-sum-iv-input-is-a-bst/)
 1. [Construct Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/)
+1. [Largest Number](https://leetcode.com/problems/largest-number/description/)
 
 ### Day 11 - Medium
 
