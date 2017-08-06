@@ -274,3 +274,7 @@ codes may not be optimized
 
 1. [Design Twitter](https://leetcode.com/problems/design-twitter/description/)
 1. [Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
+
+### Day 11 - Hard
+
+1. [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)
