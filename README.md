@@ -271,5 +271,5 @@ codes may not be optimized
 
 ### Day 11 - Medium
 
-1. [Design Twitter]()
+1. [Design Twitter](https://leetcode.com/problems/design-twitter/description/)
 1. [Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
