@@ -278,3 +278,7 @@ codes may not be optimized
 ### Day 11 - Hard
 
 1. [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)
+
+### Day 12 - Medium 
+
+1. [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
