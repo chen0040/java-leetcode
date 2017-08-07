@@ -267,17 +267,21 @@ codes may not be optimized
 ### Day 11 - Easy
 
 1. [Two Sums IV - Tree is BST](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/two-sum-iv-input-is-a-bst/)
-1. [Construct Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/)
 1. [Largest Number](https://leetcode.com/problems/largest-number/description/)
 
 ### Day 11 - Medium
 
 1. [Design Twitter](https://leetcode.com/problems/design-twitter/description/)
 1. [Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
+1. [Construct Maximum Binary Tree](https://leetcode.com/contest/leetcode-weekly-contest-44/problems/maximum-binary-tree/)
 
 ### Day 11 - Hard
 
 1. [Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)
+
+### Day 12 - Easy
+
+1. [Construct Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
 
 ### Day 12 - Medium 
 
