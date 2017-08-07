@@ -286,3 +286,4 @@ codes may not be optimized
 ### Day 12 - Medium 
 
 1. [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
+1. [Panlindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
