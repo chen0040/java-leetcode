@@ -295,3 +295,4 @@ codes may not be optimized
 1. [Find Model in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
 1. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
 1. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
+1. [K-diff Pairs in Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
