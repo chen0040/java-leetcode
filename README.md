@@ -287,3 +287,7 @@ codes may not be optimized
 
 1. [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)
 1. [Panlindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
+
+### Day 14 - Easy
+
+1. [Rearranging Coins](https://leetcode.com/problems/arranging-coins/description/)
