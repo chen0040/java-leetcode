@@ -298,3 +298,4 @@ codes may not be optimized
 1. [K-diff Pairs in Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
 1. [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)
 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+1. [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
