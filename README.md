@@ -291,3 +291,5 @@ codes may not be optimized
 ### Day 14 - Easy
 
 1. [Rearranging Coins](https://leetcode.com/problems/arranging-coins/description/)
+1. [Longest Harmonious Sequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)
+1. [Find Model in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
