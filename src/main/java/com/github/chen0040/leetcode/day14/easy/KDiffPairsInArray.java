@@ -11,7 +11,7 @@ import java.util.Map;
  *
  * summary:
  * Given an array of integers and an integer k, you need to find the number of unique k-diff pairs in the array. Here a k-diff pair is defined as an integer pair (i, j), where i and j are both numbers in the array and their absolute difference is k.
- * 
+ *
  * link: https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
  */
 public class KDiffPairsInArray {
