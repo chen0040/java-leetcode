@@ -300,3 +300,7 @@ codes may not be optimized
 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 1. [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 1. [Poor Pigs](https://leetcode.com/problems/poor-pigs/description/)
+
+### Day 14 - Medium
+
+1. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)
