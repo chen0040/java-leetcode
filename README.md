@@ -294,3 +294,4 @@ codes may not be optimized
 1. [Longest Harmonious Sequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)
 1. [Find Model in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
 1. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
+1. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)
