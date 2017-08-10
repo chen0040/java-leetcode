@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/FindTheDuplicateNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExclusiveTimeOfFunctions.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="777">
-                <caret line="326" column="99" lean-forward="false" selection-start-line="326" selection-start-column="99" selection-end-line="326" selection-end-column="99" />
+              <first_editor relative-caret-position="726">
+                <caret line="327" column="103" lean-forward="false" selection-start-line="327" selection-start-column="103" selection-end-line="327" selection-end-column="103" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -37,6 +37,19 @@
             <state relative-caret-position="102">
               <caret line="6" column="77" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExclusiveTimeOfFunctions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExclusiveTimeOfFunctions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="79" lean-forward="false" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#435#444#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,16 +89,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountNumbersWithUnitDigits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/CountNumbersWithUnitDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="84" lean-forward="false" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -157,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/CanPlaceFlowers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/MinimumIndexSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ClassMoreThan5Students" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ClassMoreThan5Students.sql" />
@@ -207,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SearchA2DMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SearchA2DMatrixII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/FindTheDuplicateNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExclusiveTimeOfFunctions.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -763,13 +766,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00090" summary="guess number hi or lo">
-      <created>1501860522293</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1501860522293</updated>
-    </task>
     <task id="LOCAL-00091" summary="nth digit">
       <created>1501900026332</created>
       <option name="number" value="00091" />
@@ -1106,7 +1102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502355183354</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="find the duplicate number">
+      <created>1502355719006</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1502355719007</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1142,7 +1145,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="find mode in BST" />
     <MESSAGE value="shortest unsorted continuous subarray" />
     <MESSAGE value="minimum absolute difference in BST" />
     <MESSAGE value="k-diff pairs in array" />
@@ -1167,7 +1169,8 @@
     <MESSAGE value="unique paths ii" />
     <MESSAGE value="search a 2d matrix" />
     <MESSAGE value="search a 2d matrix ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="search a 2d matrix ii" />
+    <MESSAGE value="find the duplicate number" />
+    <option name="LAST_COMMIT_MESSAGE" value="find the duplicate number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1178,13 +1181,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/Heaters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ConvertBSTToGreaterTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1590,11 +1586,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExclusiveTimeOfFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="79" lean-forward="false" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#435#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="777">
-            <caret line="326" column="99" lean-forward="false" selection-start-line="326" selection-start-column="99" selection-end-line="326" selection-end-column="99" />
+          <first_editor relative-caret-position="726">
+            <caret line="327" column="103" lean-forward="false" selection-start-line="327" selection-start-column="103" selection-end-line="327" selection-end-column="103" />
             <folding />
           </first_editor>
           <second_editor />
