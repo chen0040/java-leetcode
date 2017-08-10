@@ -314,3 +314,4 @@ codes may not be optimized
 1. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 1. [Solve The Equation](https://leetcode.com/problems/solve-the-equation/description/)
 1. [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+1. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/PermutationInString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousSubarraySum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="760">
-                <caret line="315" column="91" lean-forward="false" selection-start-line="315" selection-start-column="91" selection-end-line="315" selection-end-column="91" />
+              <first_editor relative-caret-position="726">
+                <caret line="316" column="95" lean-forward="false" selection-start-line="316" selection-start-column="95" selection-end-line="316" selection-end-column="95" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContinuousSubarraySum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousSubarraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="75" lean-forward="false" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,16 +127,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompareVersionNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/medium/CompareVersionNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -161,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/FindTheDifference.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NthDigit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/AddStrings.java" />
@@ -211,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MaximumLengthOfPairChain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SolveTheEquation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/PermutationInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousSubarraySum.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -767,13 +767,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00079" summary="move zeroes">
-      <created>1501842134319</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1501842134319</updated>
-    </task>
     <task id="LOCAL-00080" summary="nim game">
       <created>1501849944649</created>
       <option name="number" value="00080" />
@@ -1110,7 +1103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502334715156</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="permutation in string">
+      <created>1502340741232</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1502340741233</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1146,7 +1146,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="convert BST to greater tree" />
     <MESSAGE value="subtree of another tree" />
     <MESSAGE value="two sums" />
     <MESSAGE value="construct maximum binary tree" />
@@ -1171,7 +1170,8 @@
     <MESSAGE value="replace words" />
     <MESSAGE value="maximum length of pair chain" />
     <MESSAGE value="solve the equation" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve the equation" />
+    <MESSAGE value="permutation in string" />
+    <option name="LAST_COMMIT_MESSAGE" value="permutation in string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1182,13 +1182,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1568,11 +1561,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="75" lean-forward="false" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="760">
-            <caret line="315" column="91" lean-forward="false" selection-start-line="315" selection-start-column="91" selection-end-line="315" selection-end-column="91" />
+          <first_editor relative-caret-position="726">
+            <caret line="316" column="95" lean-forward="false" selection-start-line="316" selection-start-column="95" selection-end-line="316" selection-end-column="95" />
             <folding />
           </first_editor>
           <second_editor />
