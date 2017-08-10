@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Minesweeper.java" />
+    <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="minesweeper">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/IntegerBreak.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -18,15 +18,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="760">
-                <caret line="318" column="71" lean-forward="false" selection-start-line="318" selection-start-column="71" selection-end-line="318" selection-end-column="71" />
+              <first_editor relative-caret-position="726">
+                <caret line="319" column="75" lean-forward="false" selection-start-line="319" selection-start-column="75" selection-end-line="319" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegerBreak.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/IntegerBreak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="65" lean-forward="false" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,16 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoKeysKeyboard.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/TwoKeysKeyboard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Dota2Senate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Dota2Senate.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/AddStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LongestPanlindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java" />
@@ -219,6 +218,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Minesweeper.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/IntegerBreak.java" />
       </list>
     </option>
   </component>
@@ -774,13 +774,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00082" summary="reverse vowels in a string">
-      <created>1501851917049</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1501851917049</updated>
-    </task>
     <task id="LOCAL-00083" summary="range sum query">
       <created>1501852162562</created>
       <option name="number" value="00083" />
@@ -1117,7 +1110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502345310346</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="minesweeper">
+      <created>1502346689614</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1502346689614</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1153,7 +1153,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="construct maximum binary tree" />
     <MESSAGE value="design twitter" />
     <MESSAGE value="largest number" />
     <MESSAGE value="maximum gap" />
@@ -1178,7 +1177,8 @@
     <MESSAGE value="permutation in string" />
     <MESSAGE value="continuous subarray sum" />
     <MESSAGE value="continuous array" />
-    <option name="LAST_COMMIT_MESSAGE" value="continuous array" />
+    <MESSAGE value="minesweeper" />
+    <option name="LAST_COMMIT_MESSAGE" value="minesweeper" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1189,13 +1189,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/FindAllAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ConstructStringFromBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1588,11 +1581,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="760">
-            <caret line="318" column="71" lean-forward="false" selection-start-line="318" selection-start-column="71" selection-end-line="318" selection-end-column="71" />
+          <first_editor relative-caret-position="726">
+            <caret line="319" column="75" lean-forward="false" selection-start-line="319" selection-start-column="75" selection-end-line="319" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/IntegerBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="65" lean-forward="false" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
