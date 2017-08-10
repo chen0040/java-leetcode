@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MinPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePaths.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="760">
-                <caret line="321" column="81" lean-forward="false" selection-start-line="321" selection-start-column="81" selection-end-line="321" selection-end-column="81" />
+              <first_editor relative-caret-position="777">
+                <caret line="322" column="73" lean-forward="false" selection-start-line="322" selection-start-column="73" selection-end-line="322" selection-end-column="73" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniquePaths.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePaths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,16 +126,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContinuousSubarraySum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousSubarraySum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="75" lean-forward="false" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
@@ -173,8 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/FindAllAnagrams.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/ConstructStringFromBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/SetMismatch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/SumOfSquareNumbers.java" />
@@ -223,6 +221,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/IntegerBreak.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ShoppingOffers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MinPathSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePaths.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -779,13 +779,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00085" summary="power of 4">
-      <created>1501857757902</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1501857757902</updated>
-    </task>
     <task id="LOCAL-00086" summary="valid perfect square">
       <created>1501858384502</created>
       <option name="number" value="00086" />
@@ -1122,7 +1115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502348848485</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="minimum path sum">
+      <created>1502351240075</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1502351240075</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1158,7 +1158,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="maximum gap" />
     <MESSAGE value="print binary tree" />
     <MESSAGE value="construct rectangle" />
     <MESSAGE value="panlindromic substrings" />
@@ -1183,7 +1182,8 @@
     <MESSAGE value="minesweeper" />
     <MESSAGE value="integer break" />
     <MESSAGE value="shopping offers" />
-    <option name="LAST_COMMIT_MESSAGE" value="shopping offers" />
+    <MESSAGE value="minimum path sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimum path sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1194,13 +1194,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/SumOfSquareNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/MaxAvgSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1601,11 +1594,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="760">
-            <caret line="321" column="81" lean-forward="false" selection-start-line="321" selection-start-column="81" selection-end-line="321" selection-end-column="81" />
+          <first_editor relative-caret-position="777">
+            <caret line="322" column="73" lean-forward="false" selection-start-line="322" selection-start-column="73" selection-end-line="322" selection-end-column="73" />
             <folding />
           </first_editor>
           <second_editor />
