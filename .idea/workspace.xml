@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SolveTheEquation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/PermutationInString.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -18,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="743">
-                <caret line="314" column="85" lean-forward="false" selection-start-line="314" selection-start-column="85" selection-end-line="314" selection-end-column="85" />
+              <first_editor relative-caret-position="760">
+                <caret line="315" column="91" lean-forward="false" selection-start-line="315" selection-start-column="91" selection-end-line="315" selection-end-column="91" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -31,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolveTheEquation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SolveTheEquation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SolveTheEquation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -39,6 +39,16 @@
               <folding>
                 <element signature="e#396#404#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermutationInString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/PermutationInString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,16 +117,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PoorPigs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/PoorPigs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CompareVersionNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/medium/CompareVersionNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -161,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/RansomNote.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/FindTheDifference.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NthDigit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java" />
@@ -210,8 +209,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Dota2Senate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ReplaceWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MaximumLengthOfPairChain.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SolveTheEquation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/PermutationInString.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -767,13 +767,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00078" summary="construct binary from pre order and in order traversals">
-      <created>1501819995745</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1501819995746</updated>
-    </task>
     <task id="LOCAL-00079" summary="move zeroes">
       <created>1501842134319</created>
       <option name="number" value="00079" />
@@ -1110,7 +1103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502331533610</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="solve the equation">
+      <created>1502334715156</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1502334715156</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1146,7 +1146,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="heaters" />
     <MESSAGE value="convert BST to greater tree" />
     <MESSAGE value="subtree of another tree" />
     <MESSAGE value="two sums" />
@@ -1171,7 +1170,8 @@
     <MESSAGE value="dota2 senate" />
     <MESSAGE value="replace words" />
     <MESSAGE value="maximum length of pair chain" />
-    <option name="LAST_COMMIT_MESSAGE" value="maximum length of pair chain" />
+    <MESSAGE value="solve the equation" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve the equation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1182,13 +1182,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LongestPanlindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1482,9 +1475,9 @@
         <state relative-caret-position="170">
           <caret line="13" column="147" lean-forward="false" selection-start-line="13" selection-start-column="147" selection-end-line="13" selection-end-column="147" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#722#730#0" expanded="true" />
-            <element signature="e#859#868#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#722#730#0" expanded="false" />
+            <element signature="e#859#868#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1557,17 +1550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="743">
-            <caret line="314" column="85" lean-forward="false" selection-start-line="314" selection-start-column="85" selection-end-line="314" selection-end-column="85" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SolveTheEquation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1575,6 +1557,25 @@
           <folding>
             <element signature="e#396#404#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/PermutationInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="760">
+            <caret line="315" column="91" lean-forward="false" selection-start-line="315" selection-start-column="91" selection-end-line="315" selection-end-column="91" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -313,3 +313,4 @@ codes may not be optimized
 1. [Replace Words](https://leetcode.com/problems/replace-words/description/)
 1. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 1. [Solve The Equation](https://leetcode.com/problems/solve-the-equation/description/)
+1. [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
