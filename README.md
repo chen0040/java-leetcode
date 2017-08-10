@@ -312,3 +312,4 @@ codes may not be optimized
 1. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)
 1. [Replace Words](https://leetcode.com/problems/replace-words/description/)
 1. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
+1. [Solve The Equation](https://leetcode.com/problems/solve-the-equation/description/)
