@@ -316,3 +316,4 @@ codes may not be optimized
 1. [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 1. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
 1. [Continuous Array](https://leetcode.com/problems/contiguous-array/description/)
+1. [Minesweeper](https://leetcode.com/problems/minesweeper/description/)

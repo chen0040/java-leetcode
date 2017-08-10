@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Minesweeper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,25 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="743">
-                <caret line="317" column="81" lean-forward="false" selection-start-line="317" selection-start-column="81" selection-end-line="317" selection-end-column="81" />
+              <first_editor relative-caret-position="760">
+                <caret line="318" column="71" lean-forward="false" selection-start-line="318" selection-start-column="71" selection-end-line="318" selection-end-column="71" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minesweeper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Minesweeper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#896#905#0" expanded="true" />
+                <element signature="e#956#965#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,16 +114,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountNumbersWithUnitDigits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/CountNumbersWithUnitDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="84" lean-forward="false" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TwoKeysKeyboard.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/TwoKeysKeyboard.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -164,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/AddStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LongestPanlindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java" />
@@ -214,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/PermutationInString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousSubarraySum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Minesweeper.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -770,13 +774,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00081" summary="first bad version">
-      <created>1501850571843</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1501850571843</updated>
-    </task>
     <task id="LOCAL-00082" summary="reverse vowels in a string">
       <created>1501851917049</created>
       <option name="number" value="00082" />
@@ -1113,7 +1110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502341239442</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="continuous array">
+      <created>1502345310346</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1502345310346</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1149,7 +1153,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="two sums" />
     <MESSAGE value="construct maximum binary tree" />
     <MESSAGE value="design twitter" />
     <MESSAGE value="largest number" />
@@ -1174,7 +1177,8 @@
     <MESSAGE value="solve the equation" />
     <MESSAGE value="permutation in string" />
     <MESSAGE value="continuous subarray sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="continuous subarray sum" />
+    <MESSAGE value="continuous array" />
+    <option name="LAST_COMMIT_MESSAGE" value="continuous array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1185,13 +1189,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/FindAllAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-238">
@@ -1576,11 +1573,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Minesweeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#896#905#0" expanded="true" />
+            <element signature="e#956#965#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="743">
-            <caret line="317" column="81" lean-forward="false" selection-start-line="317" selection-start-column="81" selection-end-line="317" selection-end-column="81" />
+          <first_editor relative-caret-position="760">
+            <caret line="318" column="71" lean-forward="false" selection-start-line="318" selection-start-column="71" selection-end-line="318" selection-end-column="71" />
             <folding />
           </first_editor>
           <second_editor />
