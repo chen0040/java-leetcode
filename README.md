@@ -318,3 +318,4 @@ codes may not be optimized
 1. [Continuous Array](https://leetcode.com/problems/contiguous-array/description/)
 1. [Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 1. [Integer Break](https://leetcode.com/problems/integer-break/description/)
+1. [Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
