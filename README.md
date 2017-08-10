@@ -331,3 +331,4 @@ codes may not be optimized
 ### Day 16 - Medium
 
 1. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+1. [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
