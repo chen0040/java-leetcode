@@ -327,3 +327,7 @@ codes may not be optimized
 1. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 1. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
 1. [Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)
+
+### Day 16 - Medium
+
+1. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
