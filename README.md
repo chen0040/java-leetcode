@@ -334,3 +334,4 @@ codes may not be optimized
 1. [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
 1. [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
 1. [Valid Square](https://leetcode.com/problems/valid-square/description/)
+1. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)
