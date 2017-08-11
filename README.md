@@ -336,3 +336,4 @@ codes may not be optimized
 1. [Valid Square](https://leetcode.com/problems/valid-square/description/)
 1. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)
 1. [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)
+1. [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/)
