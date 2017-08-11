@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidTriangleNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidSquare.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="743">
-                <caret line="334" column="91" lean-forward="false" selection-start-line="334" selection-start-column="91" selection-end-line="334" selection-end-column="91" />
+              <first_editor relative-caret-position="760">
+                <caret line="335" column="73" lean-forward="false" selection-start-line="335" selection-start-column="73" selection-end-line="335" selection-end-column="73" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -45,12 +45,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidTriangleNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidTriangleNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidTriangleNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidSquare.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidSquare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,16 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchA2DMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SearchA2DMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="70" lean-forward="false" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -159,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/easy/SubtreeOfAnotherTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day10/medium/BulbSwitcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/medium/ReconstructQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/medium/PrintBinaryTree.java" />
@@ -208,8 +211,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/DeleteNodeInBST.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/TaskSchedulers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/TaskScheduler.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidTriangleNumber.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidSquare.java" />
       </list>
     </option>
   </component>
@@ -765,13 +769,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00095" summary="third max">
-      <created>1501905692113</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1501905692113</updated>
-    </task>
     <task id="LOCAL-00096" summary="number of segments in a string">
       <created>1501905868739</created>
       <option name="number" value="00096" />
@@ -1108,7 +1105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502407736745</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="valid triangle number">
+      <created>1502412667284</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1502412667284</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1144,7 +1148,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="assign cookies" />
     <MESSAGE value="keyboard row" />
     <MESSAGE value="poor pigs" />
     <MESSAGE value="compare version numbers" />
@@ -1169,7 +1172,8 @@
     <MESSAGE value="exchange seats" />
     <MESSAGE value="delete node in a bst" />
     <MESSAGE value="task scheduler" />
-    <option name="LAST_COMMIT_MESSAGE" value="task scheduler" />
+    <MESSAGE value="valid triangle number" />
+    <option name="LAST_COMMIT_MESSAGE" value="valid triangle number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1180,13 +1184,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/medium/PrintBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/medium/ReconstructQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1576,22 +1573,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidTriangleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="743">
-            <caret line="334" column="91" lean-forward="false" selection-start-line="334" selection-start-column="91" selection-end-line="334" selection-end-column="91" />
+          <first_editor relative-caret-position="760">
+            <caret line="335" column="73" lean-forward="false" selection-start-line="335" selection-start-column="73" selection-end-line="335" selection-end-column="73" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidTriangleNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
-          <folding />
+        <state relative-caret-position="162">
+          <caret line="10" column="64" lean-forward="false" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

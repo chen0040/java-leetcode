@@ -333,3 +333,4 @@ codes may not be optimized
 1. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 1. [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
 1. [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/)
+1. [Valid Square](https://leetcode.com/problems/valid-square/description/)
