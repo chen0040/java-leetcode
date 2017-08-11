@@ -340,3 +340,4 @@ codes may not be optimized
 1. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
 1. [Decode String](https://leetcode.com/problems/decode-string/description/)
 1. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
+1. [MiniParser](https://leetcode.com/problems/mini-parser/description/)

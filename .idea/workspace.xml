@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/FlattenNestedListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MiniParser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,37 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="794">
-                <caret line="341" column="105" lean-forward="false" selection-start-line="341" selection-start-column="105" selection-end-line="341" selection-end-column="105" />
+              <first_editor relative-caret-position="726">
+                <caret line="342" column="70" lean-forward="false" selection-start-line="342" selection-start-column="70" selection-end-line="342" selection-end-column="70" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiniParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MiniParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#1252#1253#0" expanded="true" />
+                <element signature="e#1305#1306#0" expanded="true" />
+                <element signature="e#1451#1452#0" expanded="true" />
+                <element signature="e#1498#1499#0" expanded="true" />
+                <element signature="e#1723#1724#0" expanded="true" />
+                <element signature="e#1769#1770#0" expanded="true" />
+                <element signature="e#1894#1902#0" expanded="true" />
+                <element signature="e#2362#2377#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,20 +107,6 @@
             <state relative-caret-position="102">
               <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskScheduler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/TaskScheduler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
-              <folding>
-                <element signature="e#348#368#0" expanded="true" />
-                <element signature="e#591#622#0" expanded="true" />
-                <element signature="e#1221#1252#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -169,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/medium/LargestNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/hard/MaximumGap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day12/medium/PrintBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/medium/ConstructMaximuBinaryTree.java" />
@@ -219,6 +230,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/NextGreaterElementII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/DecodeString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/FlattenNestedListIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MiniParser.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -775,13 +787,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00102" summary="convert BST to greater tree">
-      <created>1501929092522</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1501929092522</updated>
-    </task>
     <task id="LOCAL-00103" summary="subtree of another tree">
       <created>1501929789401</created>
       <option name="number" value="00103" />
@@ -1118,7 +1123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502434803904</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="flatten nested list iterator">
+      <created>1502434881845</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1502434881845</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1154,7 +1166,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="maximum length of pair chain" />
     <MESSAGE value="solve the equation" />
     <MESSAGE value="permutation in string" />
     <MESSAGE value="continuous subarray sum" />
@@ -1179,7 +1190,8 @@
     <MESSAGE value="next greater element" />
     <MESSAGE value="next greater element ii" />
     <MESSAGE value="decode string" />
-    <option name="LAST_COMMIT_MESSAGE" value="decode string" />
+    <MESSAGE value="flatten nested list iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="flatten nested list iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1190,13 +1202,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day12/medium/PrintBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day11/medium/ConstructMaximuBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1611,11 +1616,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MiniParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1451#1452#0" expanded="true" />
+            <element signature="e#1498#1499#0" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1769#1770#0" expanded="true" />
+            <element signature="e#1894#1902#0" expanded="true" />
+            <element signature="e#2362#2377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="794">
-            <caret line="341" column="105" lean-forward="false" selection-start-line="341" selection-start-column="105" selection-end-line="341" selection-end-column="105" />
+          <first_editor relative-caret-position="726">
+            <caret line="342" column="70" lean-forward="false" selection-start-line="342" selection-start-column="70" selection-end-line="342" selection-end-column="70" />
             <folding />
           </first_editor>
           <second_editor />
