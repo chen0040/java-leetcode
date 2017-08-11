@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/CopyListWithRandomPointer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ReconstructOriginalDigitsFromEnglish.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -23,10 +23,24 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="698">
-                <caret line="347" column="107" lean-forward="false" selection-start-line="347" selection-start-column="107" selection-end-line="347" selection-end-column="107" />
+                <caret line="348" column="129" lean-forward="false" selection-start-line="348" selection-start-column="129" selection-end-line="348" selection-end-column="129" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReconstructOriginalDigitsFromEnglish.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ReconstructOriginalDigitsFromEnglish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="92" lean-forward="false" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#479#490#0" expanded="true" />
+                <element signature="e#765#785#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,16 +149,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NextGreaterElementII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/NextGreaterElementII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="75" lean-forward="false" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -178,7 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day12/medium/PanlindromicSubstrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/RearrangingCoins.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/LongestHarmoniousSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/FindModeInBST.java" />
@@ -228,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/SortList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/InsertionSortList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/CopyListWithRandomPointer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ReconstructOriginalDigitsFromEnglish.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -814,13 +818,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00108" summary="largest number">
-      <created>1501997458124</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1501997458124</updated>
-    </task>
     <task id="LOCAL-00109" summary="maximum gap">
       <created>1501998208414</created>
       <option name="number" value="00109" />
@@ -1157,7 +1154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502448841235</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="copy list with random pointer">
+      <created>1502452472316</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1502452472316</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1193,7 +1197,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="integer break" />
     <MESSAGE value="shopping offers" />
     <MESSAGE value="minimum path sum" />
     <MESSAGE value="unique paths" />
@@ -1218,7 +1221,8 @@
     <MESSAGE value="01 matrix" />
     <MESSAGE value="sort list" />
     <MESSAGE value="insertion sort list" />
-    <option name="LAST_COMMIT_MESSAGE" value="insertion sort list" />
+    <MESSAGE value="copy list with random pointer" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy list with random pointer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1229,13 +1233,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/RearrangingCoins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/LongestHarmoniousSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1676,11 +1673,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ReconstructOriginalDigitsFromEnglish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="92" lean-forward="false" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#479#490#0" expanded="true" />
+            <element signature="e#765#785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="698">
-            <caret line="347" column="107" lean-forward="false" selection-start-line="347" selection-start-column="107" selection-end-line="347" selection-end-column="107" />
+            <caret line="348" column="129" lean-forward="false" selection-start-line="348" selection-start-column="129" selection-end-line="348" selection-end-column="129" />
             <folding />
           </first_editor>
           <second_editor />
