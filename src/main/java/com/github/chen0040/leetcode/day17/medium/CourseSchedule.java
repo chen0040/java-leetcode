@@ -46,7 +46,7 @@ public class CourseSchedule {
 
 
    }
-   
+
    public class Solution {
 
 
