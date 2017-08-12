@@ -356,3 +356,4 @@ codes may not be optimized
 1. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 1. [Convert Sorted List to Binary Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
 1. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
+1. [Evaluate reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
