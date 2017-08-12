@@ -366,3 +366,4 @@ codes may not be optimized
 1. [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/)
 1. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)
 1. [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
+1. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
