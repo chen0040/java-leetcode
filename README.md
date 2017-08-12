@@ -355,3 +355,4 @@ codes may not be optimized
 1. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)
 1. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 1. [Convert Sorted List to Binary Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)
+1. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/)
