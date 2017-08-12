@@ -364,3 +364,4 @@ codes may not be optimized
 1. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
 1. [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
 1. [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/)
+1. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)
