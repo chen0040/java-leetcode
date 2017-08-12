@@ -351,3 +351,4 @@ codes may not be optimized
 ### Day 17 - Medium
 
 1. [Diagonal Traversal](https://leetcode.com/problems/diagonal-traverse/description/)
+1. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
