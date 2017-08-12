@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/BrickWall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RankScores.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/CourseSchedule.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/CourseSchedule.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="743">
-                <caret line="369" column="69" lean-forward="false" selection-start-line="369" selection-start-column="69" selection-end-line="369" selection-end-column="69" />
+              <first_editor relative-caret-position="760">
+                <caret line="370" column="71" lean-forward="false" selection-start-line="370" selection-start-column="71" selection-end-line="370" selection-end-column="71" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RankScores.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RankScores.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,16 +151,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OddEvenLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/OddEvenLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="72" lean-forward="false" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -185,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousSubarraySum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ContinuousArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Minesweeper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/IntegerBreak.java" />
@@ -235,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/EvaluateDivision.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/CourseSchedule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/BrickWall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RankScores.sql" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -791,13 +790,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00127" summary="solve the equation">
-      <created>1502334715156</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1502334715156</updated>
-    </task>
     <task id="LOCAL-00128" summary="permutation in string">
       <created>1502340741232</created>
       <option name="number" value="00128" />
@@ -1134,7 +1126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502543501794</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="brick wall">
+      <created>1502544532029</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1502544532029</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1170,7 +1169,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="flatten nested list iterator" />
     <MESSAGE value="mini parser" />
     <MESSAGE value="minimum time difference" />
     <MESSAGE value="01 matrix" />
@@ -1195,7 +1193,8 @@
     <MESSAGE value="linked list random node" />
     <MESSAGE value="evaluate division" />
     <MESSAGE value="course schedules" />
-    <option name="LAST_COMMIT_MESSAGE" value="course schedules" />
+    <MESSAGE value="brick wall" />
+    <option name="LAST_COMMIT_MESSAGE" value="brick wall" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1206,13 +1205,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ShoppingOffers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1656,11 +1648,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RankScores.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="743">
-            <caret line="369" column="69" lean-forward="false" selection-start-line="369" selection-start-column="69" selection-end-line="369" selection-end-column="69" />
+          <first_editor relative-caret-position="760">
+            <caret line="370" column="71" lean-forward="false" selection-start-line="370" selection-start-column="71" selection-end-line="370" selection-end-column="71" />
             <folding />
           </first_editor>
           <second_editor />

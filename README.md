@@ -368,3 +368,4 @@ codes may not be optimized
 1. [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
 1. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 1. [Brick Wall](https://leetcode.com/problems/brick-wall/description/)
+1. [Rank Scores](https://leetcode.com/problems/rank-scores/description/)
