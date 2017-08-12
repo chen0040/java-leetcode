@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/PartitionList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ReorderList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="794">
-                <caret line="359" column="77" lean-forward="false" selection-start-line="359" selection-start-column="77" selection-end-line="359" selection-end-column="77" />
+              <first_editor relative-caret-position="808">
+                <caret line="360" column="73" lean-forward="false" selection-start-line="360" selection-start-column="73" selection-end-line="360" selection-end-column="73" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReorderList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ReorderList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,16 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DiagonalTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/DiagonalTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -170,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/KeyboardRow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/easy/PoorPigs.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/medium/CompareVersionNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/CountNumbersWithUnitDigits.java" />
@@ -220,6 +219,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/VerifyPreorderSerializationOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/EvaluateReversePolishNotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/PartitionList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ReorderList.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -776,13 +776,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00117" summary="k-diff pairs in array">
-      <created>1502276113801</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1502276113801</updated>
-    </task>
     <task id="LOCAL-00118" summary="minimum moves to equal array elements">
       <created>1502279252136</created>
       <option name="number" value="00118" />
@@ -1119,7 +1112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502525820275</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="partition list">
+      <created>1502526166907</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1502526166907</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1155,7 +1155,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exchange seats" />
     <MESSAGE value="delete node in a bst" />
     <MESSAGE value="task scheduler" />
     <MESSAGE value="valid triangle number" />
@@ -1180,7 +1179,8 @@
     <MESSAGE value="convert sorted list to binary tree" />
     <MESSAGE value="verify preorder serialization of a binary tree" />
     <MESSAGE value="evaluate reverse polish notation" />
-    <option name="LAST_COMMIT_MESSAGE" value="evaluate reverse polish notation" />
+    <MESSAGE value="partition list" />
+    <option name="LAST_COMMIT_MESSAGE" value="partition list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1191,13 +1191,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/medium/CompareVersionNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1601,11 +1594,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ReorderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="794">
-            <caret line="359" column="77" lean-forward="false" selection-start-line="359" selection-start-column="77" selection-end-line="359" selection-end-column="77" />
+          <first_editor relative-caret-position="808">
+            <caret line="360" column="73" lean-forward="false" selection-start-line="360" selection-start-column="73" selection-end-line="360" selection-end-column="73" />
             <folding />
           </first_editor>
           <second_editor />
