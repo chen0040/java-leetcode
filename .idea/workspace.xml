@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/OddEvenLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,25 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="726">
-                <caret line="361" column="89" lean-forward="false" selection-start-line="361" selection-start-column="89" selection-end-line="361" selection-end-column="89" />
+              <first_editor relative-caret-position="743">
+                <caret line="362" column="58" lean-forward="false" selection-start-line="362" selection-start-column="58" selection-end-line="362" selection-end-column="58" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+              <folding>
+                <element signature="e#364#379#0" expanded="true" />
+                <element signature="e#434#452#0" expanded="true" />
+                <element signature="e#1195#1204#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,16 +138,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArithmeticSlices.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ArithmeticSlices.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -167,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day14/medium/CompareVersionNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/CountNumbersWithUnitDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/TwoKeysKeyboard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Dota2Senate.java" />
@@ -217,6 +220,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/PartitionList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ReorderList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/OddEvenLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSum.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -773,13 +777,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00119" summary="assign cookies">
-      <created>1502279882414</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1502279882414</updated>
-    </task>
     <task id="LOCAL-00120" summary="keyboard row">
       <created>1502280418331</created>
       <option name="number" value="00120" />
@@ -1116,7 +1113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502526937528</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="odd even linked list">
+      <created>1502527307700</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1502527307700</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1152,7 +1156,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task scheduler" />
     <MESSAGE value="valid triangle number" />
     <MESSAGE value="valid square" />
     <MESSAGE value="fraction to recurring decimal" />
@@ -1177,7 +1180,8 @@
     <MESSAGE value="evaluate reverse polish notation" />
     <MESSAGE value="partition list" />
     <MESSAGE value="reorder list" />
-    <option name="LAST_COMMIT_MESSAGE" value="reorder list" />
+    <MESSAGE value="odd even linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="odd even linked list" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1188,13 +1192,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/TwoKeysKeyboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/Dota2Senate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1600,11 +1597,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="e#364#379#0" expanded="true" />
+            <element signature="e#434#452#0" expanded="true" />
+            <element signature="e#1195#1204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="726">
-            <caret line="361" column="89" lean-forward="false" selection-start-line="361" selection-start-column="89" selection-end-line="361" selection-end-column="89" />
+          <first_editor relative-caret-position="743">
+            <caret line="362" column="58" lean-forward="false" selection-start-line="362" selection-start-column="58" selection-end-line="362" selection-end-column="58" />
             <folding />
           </first_editor>
           <second_editor />
