@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PeekingIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/LicenseKeyFormatting.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="726">
-                <caret line="376" column="81" lean-forward="false" selection-start-line="376" selection-start-column="81" selection-end-line="376" selection-end-column="81" />
+              <first_editor relative-caret-position="743">
+                <caret line="377" column="93" lean-forward="false" selection-start-line="377" selection-start-column="93" selection-end-line="377" selection-end-column="93" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LicenseKeyFormatting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/LicenseKeyFormatting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="74" lean-forward="false" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,16 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListRandomNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/LinkedListRandomNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -157,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ShoppingOffers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MinPathSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePath.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePaths.java" />
@@ -207,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ConsecutiveNumbers.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/BeautifulArrangement.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PeekingIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/LicenseKeyFormatting.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -763,13 +763,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00131" summary="minesweeper">
-      <created>1502346689614</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1502346689614</updated>
-    </task>
     <task id="LOCAL-00132" summary="integer break">
       <created>1502347547685</created>
       <option name="number" value="00132" />
@@ -1106,7 +1099,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502585876264</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="Peeking iterator">
+      <created>1502586356966</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1502586356966</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1142,7 +1142,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sort list" />
     <MESSAGE value="insertion sort list" />
     <MESSAGE value="copy list with random pointer" />
     <MESSAGE value="reconstruct original digits from english" />
@@ -1167,7 +1166,8 @@
     <MESSAGE value="rank scores" />
     <MESSAGE value="consecutive numbers" />
     <MESSAGE value="beautiful arrangement" />
-    <option name="LAST_COMMIT_MESSAGE" value="beautiful arrangement" />
+    <MESSAGE value="Peeking iterator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Peeking iterator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1178,13 +1178,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MinPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="68" lean-forward="false" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1559,11 +1552,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/LicenseKeyFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="74" lean-forward="false" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="726">
-            <caret line="376" column="81" lean-forward="false" selection-start-line="376" selection-start-column="81" selection-end-line="376" selection-end-column="81" />
+          <first_editor relative-caret-position="743">
+            <caret line="377" column="93" lean-forward="false" selection-start-line="377" selection-start-column="93" selection-end-line="377" selection-end-column="93" />
             <folding />
           </first_editor>
           <second_editor />
