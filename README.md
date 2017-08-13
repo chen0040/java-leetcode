@@ -371,9 +371,14 @@ codes may not be optimized
 1. [Rank Scores](https://leetcode.com/problems/rank-scores/description/)
 1. [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/)
 
+### Day 18 - Easy
+
+1. [Judge Route Circle](https://leetcode.com/contest/leetcode-weekly-contest-45/problems/judge-route-circle/)
+
 ### Day 18 - Medium
 
 1. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)
 1. [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)
 1. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 1. [Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/)
+1. [Find K Closest Element](https://leetcode.com/contest/leetcode-weekly-contest-45/problems/find-k-closest-elements/)
