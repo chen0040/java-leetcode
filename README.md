@@ -374,3 +374,4 @@ codes may not be optimized
 ### Day 18 - Medium
 
 1. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)
+1. [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)

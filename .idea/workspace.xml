@@ -2,197 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/BeautifulArrangement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/ArrayPartitionI.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/ArrayPartitionI.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/BigCountries.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/BigCountries.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/DistributeCandies.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/DistributeCandies.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/HammingDistance.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/HammingDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/MergeTwoBinaryTrees.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/MergeTwoBinaryTrees.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/NumberComplement.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/NumberComplement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/ReshapeTheMatrix.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/ReshapeTheMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/ReverseString.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/ReverseString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/ReverseWordsInStringIII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/ReverseWordsInStringIII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/easy/SwapSalary.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/easy/SwapSalary.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/BattleshipsInABoard.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/BattleshipsInABoard.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/BinarySearchTreeIterator.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/BinarySearchTreeIterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/BinaryTreePreOrderTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/BinaryTreePreOrderTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/ComplexNumberMultiplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/ComplexNumberMultiplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/FindDuplicateFileInSystem.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/FindDuplicateFileInSystem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SingleElementInSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/SingleElementInSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SortCharactersByFrequency.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/SortCharactersByFrequency.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SpiralMatrix.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/SpiralMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/SpiralMatrixII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/SpiralMatrixII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day1/medium/TopKFrequentElements.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day01/medium/TopKFrequentElements.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/AverageOfLevelsInBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/AverageOfLevelsInBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/DetectCapital.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/DetectCapital.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/FindAllNumbersDisappearInArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/FindAllNumbersDisappearInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/FizzBuzz.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/InvertBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/InvertBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/IslandParameter.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/IslandParameter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/MaxConsecutiveOnes.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/MaxConsecutiveOnes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/NextGreaterElementI.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/NextGreaterElementI.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/NotBoringMovies.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/NotBoringMovies.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/SingleNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/SingleNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/easy/SumOfTwoIntegers.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/easy/SumOfTwoIntegers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/AddOneRowToTreeNode.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/AddOneRowToTreeNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/ArrayNesting.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/ArrayNesting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/CountingBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/CountingBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/FindAllDuplicatesInArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/FindAllDuplicatesInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/FindBottomLeftTreeValue.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/FindBottomLeftTreeValue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/FriendCircles.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/FriendCircles.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/InOrderTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/InOrderTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/LargestValueInEachTreeRow.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/LargestValueInEachTreeRow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/ShuffleAnArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/ShuffleAnArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/SingleNumberIII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/SingleNumberIII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day2/medium/TotalHammingDistance.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day02/medium/TotalHammingDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/BinaryTreeTilt.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/BinaryTreeTilt.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/ContainsDuplicates.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/ContainsDuplicates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/ExcelSheetColumnNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/ExcelSheetColumnNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/FindUniqueCharacterInString.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/FindUniqueCharacterInString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/MajorityElement.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/MajorityElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/RelativeRanks.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/RelativeRanks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/ReversedLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/ReversedLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/SameTrees.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/SameTrees.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/SumOfLeftLeaves.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/SumOfLeftLeaves.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/easy/ValidAnagram.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/easy/ValidAnagram.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/MostFrequentSubtreeSums.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/medium/MostFrequentSubtreeSums.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/Permutations.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/medium/Permutations.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day3/medium/RotateImage.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day03/medium/RotateImage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/Base7.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/Base7.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/ConvertSortedArrayToBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/ConvertSortedArrayToBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/DiameterOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/DiameterOfBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/IntersectionOfTwoArraysII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/IntersectionOfTwoArraysII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/MaxProductOf3Numbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/MaxProductOf3Numbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/MissingNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/MissingNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/NumberOfBoomerangs.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/NumberOfBoomerangs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/ReadBinaryWatch.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/ReadBinaryWatch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/ReverseStringII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/ReverseStringII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/easy/StudentAttendanceRecordII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/easy/StudentAttendanceRecordII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/hard/BinaryTreeMaximumPathSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/hard/BinaryTreeMaximumPathSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreePaths.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/BinaryTreePaths.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/BinaryTreeRightSideView.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/BinaryTreeRightSideView.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/CloneGraph.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/CloneGraph.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/LinkBinaryTreeToLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/LinkBinaryTreeToLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/NumberOfIslands.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/NumberOfIslands.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SubarraySumEqualsK.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/SubarraySumEqualsK.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/Subsets.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/Subsets.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SumRootToLeafNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/SumRootToLeafNumbers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/SymmetricTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/SymmetricTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day4/medium/TargetSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day04/medium/TargetSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/ExcelSheetColumnTitle.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/ExcelSheetColumnTitle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/LinkedListCycle.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/LinkedListCycle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/LongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/LongestCommonPrefix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/MergeTwoSortedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/MergeTwoSortedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/MinStack.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/MinStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/PanlindromeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/PanlindromeNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/ReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/ReverseInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/RomanToInt.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/RomanToInt.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/SecondHighestSalary.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/SecondHighestSalary.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/SqrtX.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/SqrtX.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/easy/ValidParentheses.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/easy/ValidParentheses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/GenerateParentheses.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/GenerateParentheses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/IntToRoman.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/IntToRoman.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/KthLargestElementInAnArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/KthLargestElementInAnArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/LetterCominationsOfPhoneNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/LetterCominationsOfPhoneNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/LongestPanlindromeSubstring.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/LongestPanlindromeSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/LongestSubstringWithoutRepeatingCharacters.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/LongestSubstringWithoutRepeatingCharacters.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/NthHighestSalary.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/NthHighestSalary.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/RemoveNthNodeFromEndOfList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/RemoveNthNodeFromEndOfList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/StringToInteger.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/StringToInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/medium/ZigZagConversion.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/medium/ZigZagConversion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day5/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day05/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/AddBinary.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/AddBinary.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BestTimeToBuyAndSellStock.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/BestTimeToBuyAndSellStock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BestTimeToBuyAndSellStockII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/BestTimeToBuyAndSellStockII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/BinaryLevelOrderTraversalII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/BinaryLevelOrderTraversalII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ClimbStairs.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/ClimbStairs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/CountAndSay.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/CountAndSay.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/IntersectionOfTwoLinkedLists.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/IntersectionOfTwoLinkedLists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/LengthOfLastWord.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/LengthOfLastWord.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/MaxSubarray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/MaxSubarray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/MergeSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/MergeSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PascalsTriangle.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/PascalsTriangle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PascalsTriangleII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/PascalsTriangleII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PathSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/PathSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/PlusOne.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/PlusOne.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/RemoveDuplicatesFromSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveDuplicatesFromSortedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/RemoveDuplicatesFromSortedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/RemoveElement.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/RemoveElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/SearchInsertPosition.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/SearchInsertPosition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/StrStr.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/StrStr.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/easy/ValidPanlindrome.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/easy/ValidPanlindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/BinaryLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/BinaryLevelOrderTraversal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/GroupAnagrams.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/GroupAnagrams.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/LinkedListCycleII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/LinkedListCycleII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/RepeatedDNASequence.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/RepeatedDNASequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/ReverseString.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/ReverseString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SearchForARange.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/SearchForARange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SearchInRotatedSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/SearchInRotatedSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SetMatrixZeroes.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/SetMatrixZeroes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SortColors.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/SortColors.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day6/medium/SwapNodesInPairs.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day06/medium/SwapNodesInPairs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/AddDigits.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/AddDigits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ContainsDuplicateII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/ContainsDuplicateII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/CountPrimes.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/CountPrimes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DeleteDuplicateEmails.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/DeleteDuplicateEmails.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/DuplicateEmails.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/DuplicateEmails.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/EmployeesEarningMoreThanTheirManager.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/EmployeesEarningMoreThanTheirManager.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/FactorialTrailingZeroes.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/FactorialTrailingZeroes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/FindCustomersWhoNeverOrder.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/FindCustomersWhoNeverOrder.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/HappyNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/HappyNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/HouseRobber.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/HouseRobber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ImpementStackUsingQueues.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/ImpementStackUsingQueues.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ImplementQueueUsingStacks.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/ImplementQueueUsingStacks.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/NumberOf1Bits.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/NumberOf1Bits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/PanlindromeLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/PanlindromeLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/PowerOfTwo.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/PowerOfTwo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/RemoveLinkedListElements.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/RemoveLinkedListElements.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ReverseBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/ReverseBits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/RisingTemperature.sql" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/RisingTemperature.sql" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/RotateArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/RotateArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TenthLine.sh" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/TenthLine.sh" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/TwoSumsSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/TwoSumsSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/easy/ValidPhoneNumbers.sh" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/easy/ValidPhoneNumbers.sh" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/CombinationSum.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/CombinationSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/Combinations.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/Combinations.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/MultiplyStrings.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/MultiplyStrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/PermutationsII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/PermutationsII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/RemoveDuplicatesFromSortedArrayII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/RemoveDuplicatesFromSortedArrayII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/RotateList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/RotateList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/SearchInRotatedSortedArrayII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/SearchInRotatedSortedArrayII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/SimplifyPath.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/SimplifyPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/UniqueBinarySearchTrees.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/UniqueBinarySearchTrees.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/ValidBST.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/ValidBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/medium/WordSearch.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/medium/WordSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day7/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day07/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/AddStrings.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/AddStrings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ConvertToHexadecimal.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/ConvertToHexadecimal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/DeleteNodeInLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/DeleteNodeInLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/FindTheDifference.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/FindTheDifference.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LongestPanlindrome.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/LongestPanlindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/LowestCommonAncestor.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/LowestCommonAncestor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NthDigit.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/NthDigit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/NumberOfSegmentsInString.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/NumberOfSegmentsInString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/RansomNote.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/RansomNote.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/ThirdMax.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/ThirdMax.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/easy/UglyNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/easy/UglyNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/medium/AddTwoNumbersII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/medium/AddTwoNumbersII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/medium/ValidSudoku.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/medium/ValidSudoku.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day8/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day08/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/FirstBadVersion.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/FirstBadVersion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/GuessNumberHighOrLow.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/GuessNumberHighOrLow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IntersectionOfTwoArrays.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/IntersectionOfTwoArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IntersectionOfTwoArraysII.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/IntersectionOfTwoArraysII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfFour.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/IsPowerOfFour.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/IsPowerOfThree.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/IsPowerOfThree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/MoveZeroes.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/MoveZeroes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/NimGame.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/NimGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/RangeSumQuery.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/RangeSumQuery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/ReverseVowels.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/ReverseVowels.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/easy/ValidPerfectSquare.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/easy/ValidPerfectSquare.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/medium/ConstructBinaryTreesFromPreorderAndInorderTraversals.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/medium/ConstructBinaryTreesFromPreorderAndInorderTraversals.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day9/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day09/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PeekingIterator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -212,11 +22,24 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="808">
-                <caret line="375" column="91" lean-forward="false" selection-start-line="375" selection-start-column="91" selection-end-line="375" selection-end-column="91" />
+              <first_editor relative-caret-position="726">
+                <caret line="376" column="81" lean-forward="false" selection-start-line="376" selection-start-column="81" selection-end-line="376" selection-end-column="81" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeekingIterator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PeekingIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+              <folding>
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -266,14 +89,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
               <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#840#841#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#2016#2025#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -283,10 +99,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="11" column="62" lean-forward="false" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#398#416#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -296,18 +109,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-              <folding>
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#789#809#0" expanded="true" />
-                <element signature="e#1424#1432#0" expanded="true" />
-                <element signature="e#1481#1489#0" expanded="true" />
-                <element signature="e#1540#1554#0" expanded="true" />
-                <element signature="e#1607#1623#0" expanded="true" />
-                <element signature="e#2358#2364#0" expanded="true" />
-                <element signature="e#2557#2563#0" expanded="true" />
-                <element signature="e#3073#3081#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -318,18 +120,6 @@
             <state relative-caret-position="153">
               <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomPickIndex.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RandomPickIndex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -367,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/IntegerBreak.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ShoppingOffers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MinPathSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/UniquePath.java" />
@@ -417,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RankScores.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ConsecutiveNumbers.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/BeautifulArrangement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PeekingIterator.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -521,6 +311,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="day18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -939,13 +763,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00130" summary="continuous array">
-      <created>1502345310346</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1502345310346</updated>
-    </task>
     <task id="LOCAL-00131" summary="minesweeper">
       <created>1502346689614</created>
       <option name="number" value="00131" />
@@ -1282,7 +1099,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502545786159</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="beautiful arrangement">
+      <created>1502585876263</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1502585876264</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1318,7 +1142,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="01 matrix" />
     <MESSAGE value="sort list" />
     <MESSAGE value="insertion sort list" />
     <MESSAGE value="copy list with random pointer" />
@@ -1343,7 +1166,8 @@
     <MESSAGE value="brick wall" />
     <MESSAGE value="rank scores" />
     <MESSAGE value="consecutive numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="consecutive numbers" />
+    <MESSAGE value="beautiful arrangement" />
+    <option name="LAST_COMMIT_MESSAGE" value="beautiful arrangement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1354,13 +1178,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ReplaceWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/MinPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1484,6 +1301,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#334#345#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1491,6 +1311,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="80" lean-forward="false" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1519,6 +1342,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1589,6 +1413,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="98" lean-forward="false" selection-start-line="9" selection-start-column="98" selection-end-line="9" selection-end-column="98" />
+          <folding>
+            <element signature="e#407#415#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1610,6 +1437,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1640,8 +1468,8 @@
         <state relative-caret-position="153">
           <caret line="10" column="75" lean-forward="false" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#387#396#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#387#396#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1651,7 +1479,7 @@
         <state relative-caret-position="153">
           <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1668,18 +1496,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#789#809#0" expanded="true" />
-            <element signature="e#1424#1432#0" expanded="true" />
-            <element signature="e#1481#1489#0" expanded="true" />
-            <element signature="e#1540#1554#0" expanded="true" />
-            <element signature="e#1607#1623#0" expanded="true" />
-            <element signature="e#2358#2364#0" expanded="true" />
-            <element signature="e#2557#2563#0" expanded="true" />
-            <element signature="e#3073#3081#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1687,14 +1504,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-            <element signature="e#2016#2025#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1702,10 +1512,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="62" lean-forward="false" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#398#416#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1741,11 +1548,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PeekingIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+          <folding>
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="808">
-            <caret line="375" column="91" lean-forward="false" selection-start-line="375" selection-start-column="91" selection-end-line="375" selection-end-column="91" />
+          <first_editor relative-caret-position="726">
+            <caret line="376" column="81" lean-forward="false" selection-start-line="376" selection-start-column="81" selection-end-line="376" selection-end-column="81" />
             <folding />
           </first_editor>
           <second_editor />
