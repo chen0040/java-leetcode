@@ -370,3 +370,7 @@ codes may not be optimized
 1. [Brick Wall](https://leetcode.com/problems/brick-wall/description/)
 1. [Rank Scores](https://leetcode.com/problems/rank-scores/description/)
 1. [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/)
+
+### Day 18 - Medium
+
+1. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)
