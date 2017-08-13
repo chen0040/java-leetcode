@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SingleNumberII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordLadder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,27 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="777">
-                <caret line="390" column="81" lean-forward="false" selection-start-line="390" selection-start-column="81" selection-end-line="390" selection-end-column="81" />
+              <first_editor relative-caret-position="794">
+                <caret line="391" column="71" lean-forward="false" selection-start-line="391" selection-start-column="71" selection-end-line="391" selection-end-column="71" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordLadder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordLadder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+              <folding>
+                <element signature="e#289#311#0" expanded="true" />
+                <element signature="e#596#604#0" expanded="true" />
+                <element signature="e#774#782#0" expanded="true" />
+                <element signature="e#835#852#0" expanded="true" />
+                <element signature="e#901#909#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,16 +147,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JudgeRouteCircle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/easy/JudgeRouteCircle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="93" lean-forward="false" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="93" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -174,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/TaskScheduler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidTriangleNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidSquare.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/FractionToRecurring.java" />
@@ -224,6 +229,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/LongestAbsoluteFilePath.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/MaximumProductOfWordLength.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SingleNumberII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordLadder.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -780,13 +786,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00141" summary="exchange seats">
-      <created>1502359447434</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1502359447434</updated>
-    </task>
     <task id="LOCAL-00142" summary="delete node in a bst">
       <created>1502405903223</created>
       <option name="number" value="00142" />
@@ -1123,7 +1122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502608311988</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="single number ii">
+      <created>1502609310042</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1502609310042</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1159,7 +1165,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="evaluate reverse polish notation" />
     <MESSAGE value="partition list" />
     <MESSAGE value="reorder list" />
     <MESSAGE value="odd even linked list" />
@@ -1184,7 +1189,8 @@
     <MESSAGE value="find duplicate subtrees" />
     <MESSAGE value="longest absolute file path" />
     <MESSAGE value="maximum product of word length" />
-    <option name="LAST_COMMIT_MESSAGE" value="maximum product of word length" />
+    <MESSAGE value="single number ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="single number ii" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1195,13 +1201,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidTriangleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ValidSquare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-42">
@@ -1629,11 +1628,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="e#289#311#0" expanded="true" />
+            <element signature="e#596#604#0" expanded="true" />
+            <element signature="e#774#782#0" expanded="true" />
+            <element signature="e#835#852#0" expanded="true" />
+            <element signature="e#901#909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="777">
-            <caret line="390" column="81" lean-forward="false" selection-start-line="390" selection-start-column="81" selection-end-line="390" selection-end-column="81" />
+          <first_editor relative-caret-position="794">
+            <caret line="391" column="71" lean-forward="false" selection-start-line="391" selection-start-column="71" selection-end-line="391" selection-end-column="71" />
             <folding />
           </first_editor>
           <second_editor />
