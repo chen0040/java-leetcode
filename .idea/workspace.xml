@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/DepartmentHighestSalary.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SummaryRanges.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SummaryRanges.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="604">
-                <caret line="395" column="78" lean-forward="false" selection-start-line="395" selection-start-column="78" selection-end-line="395" selection-end-column="78" />
+              <first_editor relative-caret-position="621">
+                <caret line="396" column="99" lean-forward="false" selection-start-line="396" selection-start-column="99" selection-end-line="396" selection-end-column="99" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -46,11 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordFrequency.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordFrequency.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="82" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentHighestSalary.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/DepartmentHighestSalary.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -127,16 +136,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindDuplicateSubtrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/FindDuplicateSubtrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LongestAbsoluteFilePath.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/LongestAbsoluteFilePath.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -186,7 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/NextGreaterElementII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/DecodeString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/FlattenNestedListIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MiniParser.java" />
@@ -236,6 +234,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SummaryRanges.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/DepartmentHighestSalary.sql" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -792,13 +791,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00146" summary="fraction to recurring decimal">
-      <created>1502420130053</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1502420130053</updated>
-    </task>
     <task id="LOCAL-00147" summary="rectangle area">
       <created>1502421434918</created>
       <option name="number" value="00147" />
@@ -1135,7 +1127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502617661623</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="word frequency">
+      <created>1502618218387</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1502618218387</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1171,7 +1170,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 sum closest" />
     <MESSAGE value="lexicographical numbers" />
     <MESSAGE value="random pick index" />
     <MESSAGE value="linked list random node" />
@@ -1196,7 +1194,8 @@
     <MESSAGE value="lowest common ancestor of binary tree" />
     <MESSAGE value="course schedule ii" />
     <MESSAGE value="summary ranges" />
-    <option name="LAST_COMMIT_MESSAGE" value="summary ranges" />
+    <MESSAGE value="word frequency" />
+    <option name="LAST_COMMIT_MESSAGE" value="word frequency" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1207,13 +1206,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/NextGreaterElementII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="75" lean-forward="false" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/DecodeString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1660,22 +1652,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="604">
-            <caret line="395" column="78" lean-forward="false" selection-start-line="395" selection-start-column="78" selection-end-line="395" selection-end-column="78" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/DepartmentHighestSalary.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="82" />
+        <state relative-caret-position="0">
+          <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="621">
+            <caret line="396" column="99" lean-forward="false" selection-start-line="396" selection-start-column="99" selection-end-line="396" selection-end-column="99" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

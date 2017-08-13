@@ -394,3 +394,4 @@ codes may not be optimized
 1. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 1. [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)
 1. [Word Frequency](https://leetcode.com/problems/word-frequency/description/)
+1. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)
