@@ -387,3 +387,4 @@ codes may not be optimized
 1. [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)
 1. [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)
 1. [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/)
+1. [Maximum Product of Word Length](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
