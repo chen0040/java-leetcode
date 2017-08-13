@@ -27,7 +27,7 @@ public class SummaryRanges {
          }
       }
    }
-   
+
    public class Solution {
 
       public List<String> summaryRanges(int[] nums) {
