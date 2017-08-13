@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PopulatingNextRightPointerInEachNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,12 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="621">
-                <caret line="396" column="99" lean-forward="false" selection-start-line="396" selection-start-column="99" selection-end-line="396" selection-end-column="99" />
+              <first_editor relative-caret-position="638">
+                <caret line="397" column="134" lean-forward="false" selection-start-line="397" selection-start-column="134" selection-end-line="397" selection-end-column="134" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -30,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopulatingNextRightPointerInEachNode.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PopulatingNextRightPointerInEachNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PopulatingNextRightPointerInEachNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -232,8 +232,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/DepartmentHighestSalary.sql" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PopulatingNextRightPointerInEachNode.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -789,13 +789,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00148" summary="next greater element">
-      <created>1502431651665</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1502431651665</updated>
-    </task>
     <task id="LOCAL-00149" summary="next greater element ii">
       <created>1502432838764</created>
       <option name="number" value="00149" />
@@ -1132,7 +1125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502622529573</updated>
     </task>
-    <option name="localTasksCounter" value="197" />
+    <task id="LOCAL-00197" summary="populating next right pointer in each node">
+      <created>1502623533978</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1502623533978</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1168,7 +1168,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="random pick index" />
     <MESSAGE value="linked list random node" />
     <MESSAGE value="evaluate division" />
     <MESSAGE value="course schedules" />
@@ -1193,7 +1192,8 @@
     <MESSAGE value="summary ranges" />
     <MESSAGE value="word frequency" />
     <MESSAGE value="department highest salary" />
-    <option name="LAST_COMMIT_MESSAGE" value="department highest salary" />
+    <MESSAGE value="populating next right pointer in each node" />
+    <option name="LAST_COMMIT_MESSAGE" value="populating next right pointer in each node" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1656,17 +1656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="621">
-            <caret line="396" column="99" lean-forward="false" selection-start-line="396" selection-start-column="99" selection-end-line="396" selection-end-column="99" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PopulatingNextRightPointerInEachNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1677,6 +1666,17 @@
             <element signature="e#578#579#0" expanded="true" />
             <element signature="e#613#614#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="638">
+            <caret line="397" column="134" lean-forward="false" selection-start-line="397" selection-start-column="134" selection-end-line="397" selection-end-column="134" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
