@@ -396,3 +396,4 @@ codes may not be optimized
 1. [Word Frequency](https://leetcode.com/problems/word-frequency/description/)
 1. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)
 1. [Populating Next Right Pointer in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
+1. [Find Minimum in Rotated Sorted List](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/FindMinimumInRotatedSortedList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -21,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="638">
-                <caret line="397" column="134" lean-forward="false" selection-start-line="397" selection-start-column="134" selection-end-line="397" selection-end-column="134" />
+              <first_editor relative-caret-position="652">
+                <caret line="398" column="120" lean-forward="false" selection-start-line="398" selection-start-column="120" selection-end-line="398" selection-end-column="120" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindMinimumInRotatedSortedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/FindMinimumInRotatedSortedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="88" lean-forward="false" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,16 +151,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumProductOfWordLength.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/MaximumProductOfWordLength.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -183,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/FlattenNestedListIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MiniParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MinimumTimeDifference.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/Matrix01.java" />
@@ -233,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/DepartmentHighestSalary.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PopulatingNextRightPointerInEachNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/FindMinimumInRotatedSortedList.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -789,13 +790,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00149" summary="next greater element ii">
-      <created>1502432838764</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1502432838764</updated>
-    </task>
     <task id="LOCAL-00150" summary="decode string">
       <created>1502434803903</created>
       <option name="number" value="00150" />
@@ -1132,7 +1126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502623533978</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="populating next right pointer in each node update doc">
+      <created>1502623587249</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1502623587249</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1168,7 +1169,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="linked list random node" />
     <MESSAGE value="evaluate division" />
     <MESSAGE value="course schedules" />
     <MESSAGE value="brick wall" />
@@ -1193,7 +1193,8 @@
     <MESSAGE value="word frequency" />
     <MESSAGE value="department highest salary" />
     <MESSAGE value="populating next right pointer in each node" />
-    <option name="LAST_COMMIT_MESSAGE" value="populating next right pointer in each node" />
+    <MESSAGE value="populating next right pointer in each node update doc" />
+    <option name="LAST_COMMIT_MESSAGE" value="populating next right pointer in each node update doc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1204,16 +1205,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/FlattenNestedListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="80" lean-forward="false" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MiniParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1669,11 +1660,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/FindMinimumInRotatedSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="88" lean-forward="false" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="638">
-            <caret line="397" column="134" lean-forward="false" selection-start-line="397" selection-start-column="134" selection-end-line="397" selection-end-column="134" />
+          <first_editor relative-caret-position="652">
+            <caret line="398" column="120" lean-forward="false" selection-start-line="398" selection-start-column="120" selection-end-line="398" selection-end-column="120" />
             <folding />
           </first_editor>
           <second_editor />
