@@ -376,3 +376,4 @@ codes may not be optimized
 1. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)
 1. [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)
 1. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
+1. [Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/)
