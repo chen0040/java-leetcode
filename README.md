@@ -384,3 +384,4 @@ codes may not be optimized
 1. [Find K Closest Element](https://leetcode.com/contest/leetcode-weekly-contest-45/problems/find-k-closest-elements/)
 1. [Validate UTF-8](https://leetcode.com/problems/utf-8-validation/description/)
 1. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+1. [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/KthSmallestElementInBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SerializeAndDeserializeBST.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,25 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="743">
-                <caret line="385" column="107" lean-forward="false" selection-start-line="385" selection-start-column="107" selection-end-line="385" selection-end-column="107" />
+              <first_editor relative-caret-position="760">
+                <caret line="386" column="107" lean-forward="false" selection-start-line="386" selection-start-column="107" selection-end-line="386" selection-end-column="107" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SerializeAndDeserializeBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SerializeAndDeserializeBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="81" lean-forward="false" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#616#626#0" expanded="true" />
+                <element signature="e#1312#1322#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,16 +125,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BeautifulArrangement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/BeautifulArrangement.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -164,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/SearchA2DMatrixII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/FindTheDuplicateNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExclusiveTimeOfFunctions.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExchangeSeats.sql" />
@@ -214,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/FindKClosestElements.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/ValidateUTF8.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/KthSmallestElementInBST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SerializeAndDeserializeBST.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -770,13 +774,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00136" summary="unique paths ii">
-      <created>1502353770828</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1502353770828</updated>
-    </task>
     <task id="LOCAL-00137" summary="search a 2d matrix">
       <created>1502354175811</created>
       <option name="number" value="00137" />
@@ -1113,7 +1110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502597007164</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="kth smallest element in a bst">
+      <created>1502601786573</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1502601786573</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1149,7 +1153,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="arithmetic slices" />
     <MESSAGE value="fraction addition and subtraction" />
     <MESSAGE value="encode and decode tiny url" />
     <MESSAGE value="convert sorted list to binary tree" />
@@ -1174,7 +1177,8 @@
     <MESSAGE value="validate ip address" />
     <MESSAGE value="find k closest elements" />
     <MESSAGE value="validate utf 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="validate utf 8" />
+    <MESSAGE value="kth smallest element in a bst" />
+    <option name="LAST_COMMIT_MESSAGE" value="kth smallest element in a bst" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1185,13 +1189,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExclusiveTimeOfFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="79" lean-forward="false" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day15/medium/ExchangeSeats.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1286,6 +1283,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#613#614#0" expanded="false" />
+            <element signature="e#666#667#0" expanded="false" />
+            <element signature="e#813#814#0" expanded="false" />
+            <element signature="e#868#869#0" expanded="false" />
+            <element signature="e#1088#1089#0" expanded="false" />
+            <element signature="e#1135#1136#0" expanded="false" />
+            <element signature="e#1252#1253#0" expanded="false" />
+            <element signature="e#1305#1306#0" expanded="false" />
+            <element signature="e#1451#1452#0" expanded="false" />
+            <element signature="e#1498#1499#0" expanded="false" />
+            <element signature="e#1723#1724#0" expanded="false" />
+            <element signature="e#1769#1770#0" expanded="false" />
+            <element signature="e#1894#1902#0" expanded="false" />
+            <element signature="e#2362#2377#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1364,6 +1378,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="10" column="77" lean-forward="false" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#433#442#0" expanded="true" />
+            <element signature="e#1396#1405#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1579,11 +1598,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SerializeAndDeserializeBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="81" lean-forward="false" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#616#626#0" expanded="true" />
+            <element signature="e#1312#1322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="743">
-            <caret line="385" column="107" lean-forward="false" selection-start-line="385" selection-start-column="107" selection-end-line="385" selection-end-column="107" />
+          <first_editor relative-caret-position="760">
+            <caret line="386" column="107" lean-forward="false" selection-start-line="386" selection-start-column="107" selection-end-line="386" selection-end-column="107" />
             <folding />
           </first_editor>
           <second_editor />
