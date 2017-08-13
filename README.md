@@ -382,3 +382,4 @@ codes may not be optimized
 1. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)
 1. [Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/)
 1. [Find K Closest Element](https://leetcode.com/contest/leetcode-weekly-contest-45/problems/find-k-closest-elements/)
+1. [Validate UTF-8](https://leetcode.com/problems/utf-8-validation/description/)
