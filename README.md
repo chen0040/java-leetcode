@@ -402,8 +402,10 @@ codes may not be optimized
 
 1. [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 1. [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)
+1. [Repeated Substring Patterns](https://leetcode.com/problems/repeated-substring-pattern/description/)
 
 ### Day 19 - Medium
 
 1. [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
 1. [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)
+
