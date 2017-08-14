@@ -401,3 +401,7 @@ codes may not be optimized
 ### Day 19 - Easy
 
 1. [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
+
+### Day 19 - Medium
+
+1. [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)

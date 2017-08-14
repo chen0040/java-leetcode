@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/easy/PathSumIII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/PathSumII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -23,11 +22,23 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="777">
-                <caret line="402" column="73" lean-forward="false" selection-start-line="402" selection-start-column="73" selection-end-line="402" selection-end-column="73" />
+              <first_editor relative-caret-position="808">
+                <caret line="406" column="71" lean-forward="false" selection-start-line="406" selection-start-column="71" selection-end-line="406" selection-end-column="71" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSumII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/PathSumII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,16 +138,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LowestCommonAncestorOfBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/LowestCommonAncestorOfBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="91" lean-forward="false" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -170,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/MinimumTimeDifference.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/Matrix01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/SortList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/InsertionSortList.java" />
@@ -220,6 +220,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/PopulatingNextRightPointerInEachNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/FindMinimumInRotatedSortedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/easy/PathSumIII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/PathSumII.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -776,13 +777,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00151" summary="flatten nested list iterator">
-      <created>1502434881845</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1502434881845</updated>
-    </task>
     <task id="LOCAL-00152" summary="mini parser">
       <created>1502438591172</created>
       <option name="number" value="00152" />
@@ -1119,7 +1113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502624351990</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="path sum iii">
+      <created>1502681758133</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1502681758134</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1155,7 +1156,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="course schedules" />
     <MESSAGE value="brick wall" />
     <MESSAGE value="rank scores" />
     <MESSAGE value="consecutive numbers" />
@@ -1180,7 +1180,8 @@
     <MESSAGE value="populating next right pointer in each node" />
     <MESSAGE value="populating next right pointer in each node update doc" />
     <MESSAGE value="find minimum in rotated sorted list" />
-    <option name="LAST_COMMIT_MESSAGE" value="find minimum in rotated sorted list" />
+    <MESSAGE value="path sum iii" />
+    <option name="LAST_COMMIT_MESSAGE" value="path sum iii" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1191,13 +1192,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/Matrix01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1569,11 +1563,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="777">
-            <caret line="402" column="73" lean-forward="false" selection-start-line="402" selection-start-column="73" selection-end-line="402" selection-end-column="73" />
+          <first_editor relative-caret-position="808">
+            <caret line="406" column="71" lean-forward="false" selection-start-line="406" selection-start-column="71" selection-end-line="406" selection-end-column="71" />
             <folding />
           </first_editor>
           <second_editor />
