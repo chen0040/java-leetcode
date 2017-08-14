@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/easy/MinimumMovesToEqualArrayElements.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/MinimumMovesToEqualArrayElementsII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="658">
-                <caret line="403" column="123" lean-forward="false" selection-start-line="403" selection-start-column="123" selection-end-line="403" selection-end-column="123" />
+              <first_editor relative-caret-position="743">
+                <caret line="408" column="129" lean-forward="false" selection-start-line="408" selection-start-column="129" selection-end-line="408" selection-end-column="129" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumMovesToEqualArrayElementsII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/MinimumMovesToEqualArrayElementsII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="92" lean-forward="false" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,18 +110,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SummaryRanges.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/SummaryRanges.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WordFrequency.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day18/medium/WordFrequency.sh">
           <provider selected="true" editor-type-id="text-editor">
@@ -165,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/SortList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/InsertionSortList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/CopyListWithRandomPointer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/ReconstructOriginalDigitsFromEnglish.java" />
@@ -215,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/easy/PathSumIII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/PathSumII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/easy/MinimumMovesToEqualArrayElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/MinimumMovesToEqualArrayElementsII.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -805,13 +803,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00153" summary="minimum time difference">
-      <created>1502439028302</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1502439028302</updated>
-    </task>
     <task id="LOCAL-00154" summary="01 matrix">
       <created>1502441538189</created>
       <option name="number" value="00154" />
@@ -1148,7 +1139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502682180692</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="minimum moves to equal array elements">
+      <created>1502682649237</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1502682649237</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1184,7 +1182,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rank scores" />
     <MESSAGE value="consecutive numbers" />
     <MESSAGE value="beautiful arrangement" />
     <MESSAGE value="Peeking iterator" />
@@ -1209,7 +1206,8 @@
     <MESSAGE value="find minimum in rotated sorted list" />
     <MESSAGE value="path sum iii" />
     <MESSAGE value="path sum ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="path sum ii" />
+    <MESSAGE value="minimum moves to equal array elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimum moves to equal array elements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1220,13 +1218,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/InsertionSortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="71" lean-forward="false" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day16/medium/CopyListWithRandomPointer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1602,11 +1593,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/MinimumMovesToEqualArrayElementsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="92" lean-forward="false" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="658">
-            <caret line="403" column="123" lean-forward="false" selection-start-line="403" selection-start-column="123" selection-end-line="403" selection-end-column="123" />
+          <first_editor relative-caret-position="743">
+            <caret line="408" column="129" lean-forward="false" selection-start-line="408" selection-start-column="129" selection-end-line="408" selection-end-column="129" />
             <folding />
           </first_editor>
           <second_editor />
