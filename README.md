@@ -401,6 +401,7 @@ codes may not be optimized
 ### Day 19 - Easy
 
 1. [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
+1. [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/)
 
 ### Day 19 - Medium
 
