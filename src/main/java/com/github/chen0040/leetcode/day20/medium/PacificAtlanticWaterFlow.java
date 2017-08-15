@@ -75,7 +75,7 @@ public class PacificAtlanticWaterFlow {
                int col = v % colCount;
                if(can_reach_pacific[v]) reach_pacific = true;
                if(can_reach_atlantic[v]) reach_atlantic = true;
-               if(!(reach_pacific && reach_atlantic) || row == 0 || col == 0 || row == rowCount-1 || col == colCount - 1) {
+               if(!(reach_pacific && reach_atlantic) && (row == 0 || col == 0 || row == rowCount-1 || col == colCount - 1)) {
                   if(types[v] == 1) reach_pacific = true;
                   else if(types[v] == 2) reach_atlantic = true;
                   else if(types[v] == 3) {

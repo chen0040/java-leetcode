@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/AddAndSearchWord.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -35,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTrie.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="731">
-              <caret line="91" column="4" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="91" selection-end-column="4" />
+              <caret line="91" column="4" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="91" selection-end-column="4" />
               <folding>
                 <element signature="e#358#359#0" expanded="true" />
                 <element signature="e#391#392#0" expanded="true" />
@@ -67,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PacificAtlanticWaterFlow.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PacificAtlanticWaterFlow.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="79" lean-forward="false" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+            <state relative-caret-position="391">
+              <caret line="86" column="63" lean-forward="true" selection-start-line="86" selection-start-column="63" selection-end-line="86" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1866#1875#0" expanded="true" />
@@ -250,11 +249,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/hard/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/hard/LFUCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/LongestSubstringWithAtLeastKRepeatedCharacters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTrie.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/AddAndSearchWord.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java" />
       </list>
     </option>
   </component>
@@ -844,13 +843,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00163" summary="convert sorted list to binary tree">
-      <created>1502520415207</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1502520415207</updated>
-    </task>
     <task id="LOCAL-00164" summary="verify preorder serialization of a binary tree">
       <created>1502525348949</created>
       <option name="number" value="00164" />
@@ -1187,7 +1179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502773956745</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="add and search word">
+      <created>1502774668514</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1502774668515</updated>
+    </task>
+    <option name="localTasksCounter" value="213" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1223,7 +1222,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="find duplicate subtrees" />
     <MESSAGE value="longest absolute file path" />
     <MESSAGE value="maximum product of word length" />
     <MESSAGE value="single number ii" />
@@ -1248,7 +1246,8 @@
     <MESSAGE value="longest substring with at least k repeated characters" />
     <MESSAGE value="pacific atlantic water flow" />
     <MESSAGE value="implemet trie" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemet trie" />
+    <MESSAGE value="add and search word" />
+    <option name="LAST_COMMIT_MESSAGE" value="add and search word" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1637,21 +1636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="79" lean-forward="false" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1866#1875#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTrie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
-          <caret line="91" column="4" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="91" selection-end-column="4" />
+          <caret line="91" column="4" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="91" selection-end-column="4" />
           <folding>
             <element signature="e#358#359#0" expanded="true" />
             <element signature="e#391#392#0" expanded="true" />
@@ -1688,6 +1676,17 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="86" column="63" lean-forward="true" selection-start-line="86" selection-start-column="63" selection-end-line="86" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1866#1875#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
