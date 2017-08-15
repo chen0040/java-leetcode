@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTrie.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,26 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="726">
-                <caret line="421" column="103" lean-forward="false" selection-start-line="421" selection-start-column="103" selection-end-line="421" selection-end-column="103" />
+              <first_editor relative-caret-position="743">
+                <caret line="422" column="103" lean-forward="false" selection-start-line="422" selection-start-column="103" selection-end-line="422" selection-end-column="103" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImplementTrie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTrie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+              <folding>
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,16 +160,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumMovesToEqualArrayElementsII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day19/medium/MinimumMovesToEqualArrayElementsII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="92" lean-forward="false" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -188,8 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/VerifyPreorderSerializationOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/EvaluateReversePolishNotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/PartitionList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ReorderList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/OddEvenLinkedList.java" />
@@ -238,6 +241,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/hard/LFUCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/LongestSubstringWithAtLeastKRepeatedCharacters.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTrie.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -828,13 +833,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00161" summary="fraction addition and subtraction">
-      <created>1502500245735</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1502500245735</updated>
-    </task>
     <task id="LOCAL-00162" summary="encode and decode tiny url">
       <created>1502503985530</created>
       <option name="number" value="00162" />
@@ -1171,7 +1169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502763543891</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="pacific atlantic water flow">
+      <created>1502773451223</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1502773451223</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1207,7 +1212,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="kth smallest element in a bst" />
     <MESSAGE value="serialize and deserialize BST" />
     <MESSAGE value="find duplicate subtrees" />
     <MESSAGE value="longest absolute file path" />
@@ -1232,7 +1236,8 @@
     <MESSAGE value="lru cache" />
     <MESSAGE value="lfu cache" />
     <MESSAGE value="longest substring with at least k repeated characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="longest substring with at least k repeated characters" />
+    <MESSAGE value="pacific atlantic water flow" />
+    <option name="LAST_COMMIT_MESSAGE" value="pacific atlantic water flow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1243,13 +1248,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/VerifyPreorderSerializationOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="98" lean-forward="false" selection-start-line="9" selection-start-column="98" selection-end-line="9" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/EvaluateReversePolishNotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1646,11 +1644,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/ImplementTrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="726">
-            <caret line="421" column="103" lean-forward="false" selection-start-line="421" selection-start-column="103" selection-end-line="421" selection-end-column="103" />
+          <first_editor relative-caret-position="743">
+            <caret line="422" column="103" lean-forward="false" selection-start-line="422" selection-start-column="103" selection-end-line="422" selection-end-column="103" />
             <folding />
           </first_editor>
           <second_editor />
