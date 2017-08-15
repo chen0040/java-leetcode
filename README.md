@@ -415,3 +415,7 @@ codes may not be optimized
 
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 1. [LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
+
+### Day 20 - Medium
+
+1. [Longest Substring with at least k Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)
