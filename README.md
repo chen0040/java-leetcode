@@ -414,3 +414,4 @@ codes may not be optimized
 ### Day 20 - Hard
 
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+1. [LFU Cache](https://leetcode.com/problems/lfu-cache/description/)
