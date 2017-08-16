@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PartitionEqualSubsetSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PermutationSequence.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +22,24 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="794">
-                <caret line="428" column="101" lean-forward="false" selection-start-line="428" selection-start-column="101" selection-end-line="428" selection-end-column="101" />
+              <first_editor relative-caret-position="726">
+                <caret line="429" column="89" lean-forward="false" selection-start-line="429" selection-start-column="89" selection-end-line="429" selection-end-column="89" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermutationSequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PermutationSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#597#606#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,16 +144,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LRUCache.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/hard/LRUCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
-              <caret line="111" column="7" lean-forward="false" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LFUCache.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/hard/LFUCache.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -184,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSumClosest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/LexicographicalNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RandomPickIndex.java" />
@@ -234,6 +236,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/LargestDivisibleSubset.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PartitionEqualSubsetSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PermutationSequence.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -790,13 +793,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00166" summary="partition list">
-      <created>1502526166907</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1502526166907</updated>
-    </task>
     <task id="LOCAL-00167" summary="reorder list">
       <created>1502526937528</created>
       <option name="number" value="00167" />
@@ -1133,7 +1129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502843510255</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="partition equal subset sum">
+      <created>1502845134435</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1502845134435</updated>
+    </task>
+    <option name="localTasksCounter" value="216" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1169,7 +1172,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="single number ii" />
     <MESSAGE value="word ladder" />
     <MESSAGE value="lowest common ancestor of binary tree" />
     <MESSAGE value="course schedule ii" />
@@ -1194,7 +1196,8 @@
     <MESSAGE value="add and search word" />
     <MESSAGE value="bug fix" />
     <MESSAGE value="largest divisible subset" />
-    <option name="LAST_COMMIT_MESSAGE" value="largest divisible subset" />
+    <MESSAGE value="partition equal subset sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="partition equal subset sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1205,13 +1208,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1574,6 +1570,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PermutationSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#597#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PartitionEqualSubsetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="78" lean-forward="false" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/LargestDivisibleSubset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1591,19 +1606,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PartitionEqualSubsetSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="78" lean-forward="false" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="794">
-            <caret line="428" column="101" lean-forward="false" selection-start-line="428" selection-start-column="101" selection-end-line="428" selection-end-column="101" />
+          <first_editor relative-caret-position="726">
+            <caret line="429" column="89" lean-forward="false" selection-start-line="429" selection-start-column="89" selection-end-line="429" selection-end-column="89" />
             <folding />
           </first_editor>
           <second_editor />

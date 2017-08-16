@@ -427,3 +427,4 @@ codes may not be optimized
 
 1. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
 1. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+1. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
