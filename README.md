@@ -422,3 +422,7 @@ codes may not be optimized
 1. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
 1. [Implement Trie (Prefix Trie)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 1. [Add and Search Word - Word Dictionary Design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)
+
+### Day 21 - Medium
+
+1. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
