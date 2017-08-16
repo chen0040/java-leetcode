@@ -429,3 +429,4 @@ codes may not be optimized
 1. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 1. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+1. [H-Index](https://leetcode.com/problems/h-index/description/)
