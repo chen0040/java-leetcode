@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbcd6e2-de33-4dfb-8d39-b3f61c9d6067" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/HIndexII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/easy/ImageSmoother.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/EqualTreePartition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/MaximumWidthOfBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/package-info.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +25,58 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="777">
-                <caret line="432" column="69" lean-forward="false" selection-start-line="432" selection-start-column="69" selection-end-line="432" selection-end-column="69" />
+              <first_editor relative-caret-position="658">
+                <caret line="435" column="19" lean-forward="false" selection-start-line="435" selection-start-column="19" selection-end-line="435" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageSmoother.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/easy/ImageSmoother.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumWidthOfBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/MaximumWidthOfBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="219" lean-forward="false" selection-start-line="12" selection-start-column="219" selection-end-line="12" selection-end-column="219" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#851#869#0" expanded="true" />
+                <element signature="e#925#943#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EqualTreePartition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/EqualTreePartition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#578#587#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/HIndex.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="38" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="27" selection-end-column="38" />
+              <caret line="27" column="38" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="27" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -54,7 +104,7 @@
       <file leaf-file-name="NextPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/NextPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="153">
               <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
               <folding />
             </state>
@@ -64,11 +114,11 @@
       <file leaf-file-name="PermutationSequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PermutationSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="153">
               <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#597#606#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#597#606#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -80,68 +130,6 @@
             <state relative-caret-position="153">
               <caret line="9" column="78" lean-forward="false" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddAndSearchWord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/AddAndSearchWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="93" lean-forward="false" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#2758#2759#0" expanded="true" />
-                <element signature="e#2794#2795#0" expanded="true" />
-                <element signature="e#2969#2970#0" expanded="true" />
-                <element signature="e#3012#3013#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PacificAtlanticWaterFlow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="77" column="125" lean-forward="false" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="125" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1866#1875#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestDivisibleSubset.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/LargestDivisibleSubset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="76" lean-forward="false" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
-              <folding>
-                <element signature="e#344#353#0" expanded="true" />
-                <element signature="e#397#406#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#1060#1069#0" expanded="true" />
-                <element signature="e#1604#1613#0" expanded="true" />
-                <element signature="e#1702#1711#0" expanded="true" />
-                <element signature="e#2588#2597#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,9 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/LinkedListRandomNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/EvaluateDivision.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/CourseSchedule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/BrickWall.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RankScores.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/ConsecutiveNumbers.sql" />
@@ -229,6 +214,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/NextPermutation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/HIndex.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/HIndexII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/easy/ImageSmoother.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/MaximumWidthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/EqualTreePartition.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -262,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -333,7 +320,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day21" />
+              <option name="myItemId" value="day25" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -363,7 +350,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="day21" />
+              <option name="myItemId" value="day25" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -396,11 +383,46 @@
               <option name="myItemId" value="leetcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day25" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -785,13 +807,6 @@
       <option name="presentableId" value="Default" />
       <updated>1501127182011</updated>
     </task>
-    <task id="LOCAL-00170" summary="3 sum closest">
-      <created>1502531302460</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1502531302460</updated>
-    </task>
     <task id="LOCAL-00171" summary="lexicographical numbers">
       <created>1502536003163</created>
       <option name="number" value="00171" />
@@ -1128,7 +1143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502848599273</updated>
     </task>
-    <option name="localTasksCounter" value="219" />
+    <task id="LOCAL-00219" summary="h-index ii">
+      <created>1502848686559</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1502848686559</updated>
+    </task>
+    <option name="localTasksCounter" value="220" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1144,7 +1166,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17469205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23349634" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23166259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1164,7 +1186,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="summary ranges" />
     <MESSAGE value="word frequency" />
     <MESSAGE value="department highest salary" />
     <MESSAGE value="populating next right pointer in each node" />
@@ -1189,7 +1210,8 @@
     <MESSAGE value="permutation sequence" />
     <MESSAGE value="next permutation" />
     <MESSAGE value="h-index" />
-    <option name="LAST_COMMIT_MESSAGE" value="h-index" />
+    <MESSAGE value="h-index ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="h-index ii" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1200,34 +1222,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/LinkedListRandomNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/EvaluateDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/CourseSchedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/BrickWall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="62" lean-forward="false" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day17/medium/RankScores.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1442,7 +1436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1450,9 +1443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="10" column="95" lean-forward="false" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1460,7 +1450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1468,7 +1457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1768">
           <caret line="111" column="7" lean-forward="false" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1476,7 +1464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1484,10 +1471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="106" lean-forward="false" selection-start-line="12" selection-start-column="106" selection-end-line="12" selection-end-column="106" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#502#522#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1495,12 +1478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1479">
           <caret line="91" column="4" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="91" selection-end-column="4" />
-          <folding>
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1508,28 +1485,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="10" column="93" lean-forward="false" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
-            <element signature="e#2794#2795#0" expanded="true" />
-            <element signature="e#2969#2970#0" expanded="true" />
-            <element signature="e#3012#3013#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day20/medium/PacificAtlanticWaterFlow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
+        <state relative-caret-position="1258">
           <caret line="77" column="125" lean-forward="false" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="125" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1866#1875#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1543,18 +1507,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/LargestDivisibleSubset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="153">
           <caret line="9" column="76" lean-forward="false" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
-          <folding>
-            <element signature="e#344#353#0" expanded="true" />
-            <element signature="e#397#406#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#1060#1069#0" expanded="true" />
-            <element signature="e#1604#1613#0" expanded="true" />
-            <element signature="e#1702#1711#0" expanded="true" />
-            <element signature="e#2588#2597#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1568,7 +1523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/NextPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="153">
           <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
           <folding />
         </state>
@@ -1576,11 +1531,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/PermutationSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="153">
           <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#597#606#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#597#606#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1588,7 +1543,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day21/medium/HIndex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="27" selection-end-column="38" />
+          <caret line="27" column="38" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="27" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -1601,11 +1556,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/easy/ImageSmoother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/MaximumWidthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="219" lean-forward="false" selection-start-line="12" selection-start-column="219" selection-end-line="12" selection-end-column="219" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#851#869#0" expanded="true" />
+            <element signature="e#925#943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/chen0040/leetcode/day25/medium/EqualTreePartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#578#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="777">
-            <caret line="432" column="69" lean-forward="false" selection-start-line="432" selection-start-column="69" selection-end-line="432" selection-end-column="69" />
+          <first_editor relative-caret-position="658">
+            <caret line="435" column="19" lean-forward="false" selection-start-line="435" selection-start-column="19" selection-end-line="435" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />

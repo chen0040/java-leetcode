@@ -431,3 +431,11 @@ codes may not be optimized
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 1. [H-Index](https://leetcode.com/problems/h-index/description/)
 1. [H-Index II](https://leetcode.com/problems/h-index-ii/description/)
+
+### Day 25 - Easy
+1. [Image Smoother]
+
+### Day 25 - Medium
+
+1. [Equal Tree Partition]
+1. [Maximum Width of Binary Tree]
